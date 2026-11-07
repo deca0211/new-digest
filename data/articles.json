@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
+    "url": "https://news.hada.io/topic?id=36742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T18:01:20+09:00",
+    "excerpt": "ACME Inc.가 TypeScript 시니어 코드 전문가 를 모집함. AI 에이전트가 해결하지 못한 복잡한 문제를 코드를 직접 읽고 수정하는 역할임 지난 2년간 AI 우선 방식 으로 운영하며 영어로 작업의 99.5%를 해결했지만, 프롬프트가 통하지 않거나 에이전트가 반복에 빠지는 나머지 0.5%를 맡길 엔지니어가 필요함 담당자는 코드, 로그, 데이터베이스를 조사하고 수정안 작성부터 테스트, 검토, 배포까지 독립적으로 수행 하며, 에이전트 학습용 사후 분석도 작성함 2022년 이전 TypeScript 경력 5년 이상 을 요구하며, 전형에는 종이와 연필을 사 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512107+00:00"
+  },
+  {
+    "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
+    "url": "https://news.hada.io/topic?id=36741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T17:10:27+09:00",
+    "excerpt": "블로그 글 한 편을 쓰는 흐름(키워드 조사 → 초안 → 검수 → 발행)을 한 화면에 모은 웹 서비스입니다. 1인 개발이고 지금 베타입니다. 만든 이유 블로그 AI 도구는 대부분 \"대량 자동 발행\"을 팝니다. 그런데 구글의 대량 콘텐츠 남용 정책이나 네이버 제재 사례를 보면 그 방향은 결국 사용자 계정이 위험을 떠안는 구조라고 봤습니다. 그래서 반대로, 사람이 확인하지 않으면 발행 단계가 열리지 않는 도구를 만들었습니다. 하는 것 키워드 분석: 네이버 검색광고 키워드도구 API로 월간 검색량·광고 경쟁도를 보여주고, 검색량 대 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512155+00:00"
+  },
+  {
+    "title": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접",
+    "url": "https://news.hada.io/topic?id=36740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T15:32:41+09:00",
+    "excerpt": "나트륨이온 배터리 가 상업 생산 단계에 진입했으며, Wood Mackenzie 분석에 따르면 전 세계 공급 계약 규모가 70GWh를 넘어섬 선도 제조업체들은 2026년 말까지 셀 수준 에서 리튬인산철(LFP) 배터리와 비용이 같아질 전망이지만, 모듈과 시스템 수준에서는 2030년 이후 에야 가능할 것으로 예상됨 초기 비용은 LFP보다 높지만, 용량 증설 주기가 필요 없고 운영비가 낮아 20년간 총소유비용이 21% 낮아질 가능성 이 있음 원자재 공급 안정성, 수명, 넓은 작동 온도 범위 가 기술적 강점이며, 특히 리튬이온 배터리에 추가 열관리 시스템이 필 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512192+00:00"
+  },
+  {
+    "title": "Show GN: 돌싱벗 - 30~50대 돌싱을 위한 소개팅 앱",
+    "url": "https://news.hada.io/topic?id=36739&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T13:18:46+09:00",
+    "excerpt": "안녕하세요. 안드로이드 앱을 혼자 만들고 있습니다. 30대, 40대, 50대 돌싱과 새 인연을 찾는 분들을 위한 소개팅 앱을 구글 플레이에 올렸습니다. 앱은 Kotlin, Jetpack Compose / 서버는 FastAPI, PostgreSQL 지인 막기: 연락처 번호를 해시로 바꿔 비교하고, 이름은 보내지 않음 프로필과 사진은 운영자가 직접 확인한 뒤 공개, 사진을 바꾸면 다시 확인 수락해야 대화가 열리고, 대화로 전화번호와 외부 링크는 보낼 수 없음 30일 넘게 접속하지 않은 회원은 목록에서 제외 지금은 오픈 기념으로 모든 기능이 무료이고, 여성 회원은 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512225+00:00"
+  },
+  {
+    "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+    "url": "https://news.hada.io/topic?id=36738&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T11:52:06+09:00",
+    "excerpt": "HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다. 무엇을 하나 잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다. 휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분). 적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간이 다 되 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512259+00:00"
+  },
+  {
+    "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+    "url": "https://news.hada.io/topic?id=36737&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T11:40:03+09:00",
+    "excerpt": "코딩 에이전트를 쓰다 보면 어제 정한 걸 오늘 세션에서 다시 설명하게 됩니다. \"테스트는 pytest로\", \"이 레포는 마이그레이션 손으로 작성\", \"그 방식은 지난주에 해 봤는데 안 됐음\" 같은 것들이요. 에이전트를 바꾸면(Claude Code → Codex) 처음부터 다시입니다. Heirmos는 이걸 자동으로 이어 주는 기억 레이어입니다. ■ 하는 일 세션이 끝나거나 컨텍스트가 압축될 때 대화에서 결정·선호·규칙만 뽑아 저장 다음 세션 시작 시 \"이 레포에서 전에 정한 것\"을 에이전트 컨텍스트에 자동 주입 작업 중엔 에이전트가 MCP로 지난 결 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512293+00:00"
+  },
+  {
+    "title": "Libghostty 1.0 - 터미널 에뮬레이션 C 라이브러리와 ABI 안정화",
+    "url": "https://news.hada.io/topic?id=36736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T11:33:31+09:00",
+    "excerpt": "Ghostty의 코어에서 분리한 터미널 에뮬레이션 C 라이브러리 libghostty-vt 가 1.0에 도달 했으며, 라이브러리와 C ABI 모두 안정화됨 JetBrains IDE 터미널 에 이미 적용됐고, Neovim의 libvterm 대체 PR도 승인된 상태임. 무료 및 상용 제품 수백 개에서 사용되며 TUI 렌더링과 퍼징에도 활용됨 시맨틱 버저닝과 엄격한 ABI 호환성 을 보장하며, API 설계와 CI 검증, 심볼 버전 관리로 배포판 패키징과 동적 링크를 지원함 MIT 라이선스 이며 기본 런타임 의존성은 libc뿐임. Linux, macOS, Windows, 모바일, WebAssembly 등을 지원함 앞으로 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512328+00:00"
+  },
+  {
+    "title": "Rune: macOS, Windows, Linux, 웹을 위한 네이티브 GPU 렌더링 Rust UI 프레임워크",
+    "url": "https://news.hada.io/topic?id=36735&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T10:38:06+09:00",
+    "excerpt": "Rune 은 자체 렌더러, 텍스트 처리, 레이아웃, 스프링을 갖춘 Rust UI 프레임워크로, macOS, Windows, Linux와 웹을 지원함 모든 앱을 헤드리스 모드 로 실행할 수 있어 에이전트가 PNG 렌더링, 요소 트리 출력, 스크립트 입력을 통한 조작을 수행할 수 있음 코딩 에이전트 가 예제와 문서를 출발점으로 앱을 만들고, 헤드리스 실행으로 자신의 작업 결과를 확인하는 개발 흐름을 안내함 현재 정식 출시 전 단계 로, 사용 시 dev 브랜치의 특정 리비전을 고정해야 하며 dev 의 이력은 재작성하지 않음 풀 리퀘스트는 받지 않으며 , 에이전트가 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512364+00:00"
+  },
+  {
+    "title": "Firecracker VM 탈출: PwnEscape 2부",
+    "url": "https://news.hada.io/topic?id=36734&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T10:35:06+09:00",
+    "excerpt": "기존에 확보한 호스트 메모리 접근 수단 으로 게스트 내부에서 호스트의 Firecracker 스레드를 장악하고 호스트 root 권한으로 코드를 실행함 KVM_RUN 복귀 시점 을 겨냥해 커널에 저장된 사용자 공간 레지스터를 변경하고, 지정한 함수와 인자로 Firecracker가 실행을 이어가도록 함 게스트 페이지의 식별 패턴을 출발점으로 EPT와 호스트 페이지 테이블 을 추적해 Firecracker 주소 공간, ASLR 적용 위치, 활성 vCPU의 저장 레지스터를 찾아냄 Firecracker의 표준 오류에 8바이트 식별 문자열 을 출력한 뒤 임시 스택 변경을 복원했으며, 프 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512395+00:00"
+  },
+  {
+    "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
+    "url": "https://news.hada.io/topic?id=36733&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:40:02+09:00",
+    "excerpt": "LLM의 내장 웹 검색을 별도의 검색 API로 분리 해, 검색어의 의도를 분류하는 평가에서 정확도를 유지하면서 검색 요금을 98% 이상 절감 함. 모델 추론 비용은 제외한 수치임 여러 AI 에이전트가 하나의 검색 게이트웨이 를 공유하며, 모델과 검색 업체를 독립적으로 교체할 수 있음. 검색 결과 수, 캐시 정책, 장애 시 대체 업체도 설정으로 관리함 같거나 의미가 비슷한 질문의 검색 결과를 재사용 해 중복 호출을 줄임. 캐시가 채워진 평가에서는 초기 실행보다 평균 지연 시간이 68%, 검색 비용이 99% 이상 감소함 검색 결과를 제목, URL …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512428+00:00"
+  },
+  {
+    "title": "AI가 AI 연구를 극적으로 가속하고 있음",
+    "url": "https://news.hada.io/topic?id=36732&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:34:28+09:00",
+    "excerpt": "METR 조사에 따르면 Anthropic의 AI 역량 발전 속도 는 최근 1년간 이전 1년 대비 약 2배가 됐으며, 현재 이 속도를 유지하는 주된 요인은 AI를 통한 연구 자동화 로 추정됨 전체 역량 발전이 2배 빨라지려면 연구 노동의 생산성은 훨씬 더 높아져야 함. 실험용 연산 자원과 수확 체감을 고려한 단순 모형에서는 약 10배의 노동 생산성 향상 이 필요할 수 있지만, 불확실성이 매우 큼 더 강력한 AI가 연구를 가속하고 다시 더 강력한 AI를 만드는 복리적 가속 을 막을 명확한 병목은 이번 조사에서 발견되지 않았음. 다만 METR 조사팀도 판단이 여러 차례 바뀌었으며 상당한 불확실성을 인정함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512462+00:00"
+  },
+  {
+    "title": "대부분의 AI 스타트업은 살아남지 못한다 - 살아남는 회사를 만드는 방법 [영상]",
+    "url": "https://news.hada.io/topic?id=36731&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:31:01+09:00",
+    "excerpt": "OpenAI나 Anthropic이 내 제품의 기능을 제공하게 되어도 회사가 살아남을 수 있는가? Khosla Ventures의 키스 라보이스가 산업별 AI 기업을 고를 때 던지는 핵심 질문임 사람의 일을 보조하는 코파일럿보다 업무를 끝까지 수행하는 오토파일럿 이 장기적으로 더 방어력 있는 사업이 될 수 있음 기반 모델의 부족한 부분을 메우는 데 머무르지 않고, 모델이 발전할수록 고객에게 더 큰 가치를 제공하는 구조 를 만들어야 함 독자적인 데이터 축적과 개선의 순환, 쉽게 접근할 수 없는 정보, 실제 서비스 제공과 결과에 대한 책임이 경쟁 우 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512494+00:00"
+  },
+  {
+    "title": "Craft Anything - 웹사이트, 앱, 게임을 분석하고 AI로 재구현하는 도구",
+    "url": "https://news.hada.io/topic?id=36730&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:30:03+09:00",
+    "excerpt": "원본과 원하는 결과를 지정하면 분석 → 구현 → 비교 → 개선 을 거쳐 새 프로젝트를 만들어 줌 “이 웹사이트를 재현해 줘”, “이 게임을 Rust로 만들어 줘”처럼 요청 가능 원본과 다른 부분을 찾아 반복 수정 함 웹사이트는 세 화면 너비에서 레이아웃, 시각적 유사성과 메뉴 동작 등을 비교함 기본 Clean room 모드 는 원본 코드나 파일을 읽지 않고 화면과 배치, 색상 등으로 작업함 운영체제 수준의 샌드박스는 아니며, 에이전트의 자체 권한은 별도로 적용됨 Deep 모드 는 바이너리, 코드와 파일까지 분석하며 Ghidra와도 연동함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512528+00:00"
+  },
+  {
+    "title": "Omarchy 4.5 - 플로팅 데스크톱, 50개 언어와 Mac 네이티브 설치 지원",
+    "url": "https://news.hada.io/topic?id=36729&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:20:21+09:00",
+    "excerpt": "개발자용 Linux 배포판 Omarchy에 창을 자유롭게 겹쳐 배치하는 플로팅 모드와 독 이 추가됨. 작업 공간마다 타일링, 스크롤링, 플로팅 방식을 따로 선택할 수 있음 M1/M2/M3/Neo MacBook에 macOS를 유지하면서 네이티브 설치 할 수 있음. macOS용 설치 앱을 제공해 USB나 터미널 명령 없이 설치하며, M4 이후 기종 지원은 개발 중임 메뉴와 데스크톱에 50개 언어 를 지원하고, 설치 단계부터 한국어를 포함한 동아시아 입력기 5종과 글꼴 을 설정할 수 있음 패키지를 하나씩 설치하던 방식에서 사전 제작한 시스템 이미지를 푸는 방식 으로 바 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512561+00:00"
+  },
+  {
+    "title": "세계에서 가장 AI에 진심인 회사를 만든 방법",
+    "url": "https://news.hada.io/topic?id=36728&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-07T09:20:02+09:00",
+    "excerpt": "직원 10명인 Spawn은 인건비의 30배를 AI 토큰에 지출 하며 제품을 개발함. 최근 30일 동안 토큰 비용으로 310만 달러를 쓰고, 실질적인 코드 변경 7만 7,000건을 배포함 개발, 운영, 재무 등을 맡는 상시 AI 에이전트 조직 을 운영함. 각 에이전트는 이름과 기억, 실제 시스템 권한을 갖고 담당 영역을 관리하며, 하루 수천 개의 보조 에이전트를 생성해 작업함 PR을 없애고 에이전트들이 같은 코드와 실제 제품을 통해 협업 함. 15분마다 전체 테스트를 실행하고 매시간 배포하며, 문제가 생기면 새 에이전트가 감지하고 수정하는 순환을 유지함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:13.512591+00:00"
+  },
+  {
+    "title": "Upload Your RAM",
+    "url": "https://uploadyourram.org",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 10:15:26 +0000",
+    "excerpt": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 3 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713033+00:00"
+  },
+  {
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 09:46:03 +0000",
+    "excerpt": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 4 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713059+00:00"
+  },
+  {
+    "title": "Port 0: The Port That Does Not Exist",
+    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 09:38:26 +0000",
+    "excerpt": "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 4 # Comments: 1",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713075+00:00"
+  },
+  {
+    "title": "The Components of Agent Memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 06:39:04 +0000",
+    "excerpt": "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 50 # Comments: 25",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713091+00:00"
+  },
+  {
+    "title": "Asahi Linux Progress Linux 7.3",
+    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 05:20:18 +0000",
+    "excerpt": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 185 # Comments: 142",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713105+00:00"
+  },
+  {
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 04:54:36 +0000",
+    "excerpt": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 109 # Comments: 71",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713122+00:00"
+  },
+  {
+    "title": "I toured Unitree's factory. I'm more bullish on the West",
+    "url": "https://josef.cn/blog/unitree",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 01:05:16 +0000",
+    "excerpt": "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 125 # Comments: 85",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713136+00:00"
+  },
+  {
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 23:37:19 +0000",
+    "excerpt": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 130 # Comments: 62",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713151+00:00"
+  },
+  {
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+    "excerpt": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 670 # Comments: 108",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713164+00:00"
+  },
+  {
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+    "excerpt": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 311 # Comments: 265",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713179+00:00"
+  },
+  {
+    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 20:09:14 +0000",
+    "excerpt": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 76 # Comments: 20",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713195+00:00"
+  },
+  {
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+    "excerpt": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 487 # Comments: 111",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713212+00:00"
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 19:33:38 +0000",
+    "excerpt": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 241 # Comments: 106",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713226+00:00"
+  },
+  {
+    "title": "GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 19:24:21 +0000",
+    "excerpt": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 147 # Comments: 31",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713240+00:00"
+  },
+  {
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "source": "Hacker News",
+    "published": "Fri, 06 Nov 2026 19:19:27 +0000",
+    "excerpt": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 128 # Comments: 62",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-07T10:49:17.713254+00:00"
+  }
+]
