@@ -1,5 +1,305 @@
 [
   {
+    "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
+    "url": "https://news.hada.io/topic?id=36781&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T09:02:00+09:00",
+    "excerpt": "검색 결과 상단을 저품질 AI 콘텐츠 가 차지하면서 웹이 망가졌다고 느낌. LLM 요약이 그나마 쓸 만한 이유도 이전 검색보다 나아서가 아니라, 검색 결과 아래에 묻힌 좋은 링크를 언급해 주기 때문임 Google과 DuckDuckGo의 요청 제한 으로 오류나 대기 안내를 자주 접하며, 새로고침하며 결과를 기다리는 데 1분 이상 허비하기도 함. 비로그인 상태의 GitHub 탐색 제한과 곳곳의 Anubis 차단까지 겹쳐 생산성이 오히려 낮아졌다고 느낌 웹 의존도를 줄이고 기본 자료를 활용하는 것도 좋지만, 최신 하드웨어의 구체적인 문제 에는 웹의 기존 버그 보고서가 필요할 수 있음. 예를 들어 1년 된 모바일 칩셋에서 맞춤형 펌웨어가 부팅되지 않는 이유는 5년 전 책으로 해결하기 어려우며, 현재도 이와 유사한 문제를 겪고 있음 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.676817+00:00"
+  },
+  {
+    "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
+    "url": "https://news.hada.io/topic?id=36780&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T08:34:44+09:00",
+    "excerpt": "MaxxBench 는 DeepSWE의 89개 과제에서 요구사항이나 시작 코드를 조금 바꿔, 코딩 에이전트가 익숙한 정답 대신 달라진 작업에 적응하는지 평가함 참조 패치 증가량은 중앙값 17줄, 3.5% 에 불과했지만, 비교한 12개 구성의 최고점과 최저점 차이는 DeepSWE의 20.9%p에서 MaxxBench의 48.3%p로 커짐 여러 모델이 새 요구사항을 이해하고도 숨겨진 테스트에 대한 추측 을 우선함. 다만 Claude Opus 5.5처럼 요구사항을 더 잘 따르는 모델도 있어, 모든 모델의 성능이 떨어진 것은 아님 메모리 사용량을 프로그램의 자체 보고로 확인하는 과 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.676871+00:00"
+  },
+  {
+    "title": "Show HN: Coldframe, 슈퍼마켓 냉장 제어기로 위장하는 허니팟",
+    "url": "https://news.hada.io/topic?id=36779&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T07:38:27+09:00",
+    "excerpt": "Coldframe 은 냉장 제어기를 흉내 내 접속 출처, 시도한 비밀번호, 사용한 공개 익스플로잇을 기록하며, 실제 장비나 제어 기능은 제공하지 않는 허니팟임 Danfoss AK-SM 800A 와 Copeland/Dixell XWEB EVO 두 가지 장비를 모방하며, 로그인 화면뿐 아니라 HTTP 헤더, 인증 흐름 등 실제 장비의 웹 지문을 재현함 취약한 계정이나 특정 인증 우회로 로그인하면 가짜 냉장 진열대 대시보드 를 제공하고, 제상 버튼을 누르는 등 후속 행동까지 기록함 Python 표준 라이브러리만 사용하는 단일 파일 로 구현됐으며, 공개 취약점에 해당하는 요청 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.676912+00:00"
+  },
+  {
+    "title": "모든 Windows 11 앱은 Electron을 버려야 한다, Discord가 그 이유를 보여줬다",
+    "url": "https://news.hada.io/topic?id=36778&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T07:35:27+09:00",
+    "excerpt": "Discord가 Electron 기반 데스크톱 앱을 Rust와 GPUI로 재구축 하고 있음. 시작 속도 비교 영상에서는 새 앱을 늦게 켰는데도 친구 목록이 먼저 뜸 새 클라이언트는 계정 2개를 동시 실행하면서도 RAM 290.2MB 를 사용함. 기존 1GB보다 약 70% 적지만, 아직 동일 조건 비교 벤치마크는 없음 빠른 초기화와 새 아키텍처 덕분에 “Starting” 화면을 없애고 , 업데이트는 백그라운드에서 자동으로 처리함 데스크톱 UI는 브라우저 엔진 대신 GPU로 직접 렌더링 하고, 모바일과 웹도 Rust 코드를 공유함. 웹은 HTML 렌더링을 유지하되 앱 로직을 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.676968+00:00"
+  },
+  {
+    "title": "산마리노 여행 노트",
+    "url": "https://news.hada.io/topic?id=36777&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T06:51:56+09:00",
+    "excerpt": "이탈리아에 둘러싸인 인구 약 3만 3,500명의 산마리노는 작고 위협적이지 않은 국가라는 지위와 외교 를 활용해 수백 년간 독립을 유지해 왔음 세계에서 가장 오래 지속된 공화국을 자처하지만 301년 건국설은 근거가 희박 하며, 실제 정치체제도 과두정, 파시즘, 공산당 참여 연립정부를 거쳐 변화해 왔음 이탈리아와의 관계는 생존뿐 아니라 경제도 좌우함. 전후 좌파 정부의 카지노 실험 은 이탈리아의 국경 검문에 막혀 실패했고, 오늘날 경제는 이탈리아/EU 시장에 깊이 통합돼 있음 관광 중심지인 수도에는 관광 인프라 가 잘 갖춰져 있 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677005+00:00"
+  },
+  {
+    "title": "10달러짜리 4G USB 동글로 홈 서버 돌리기",
+    "url": "https://news.hada.io/topic?id=36776&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T06:48:55+09:00",
+    "excerpt": "배송비 포함 10달러에 구매한 4G USB 동글(OpenStick) 에 Debian을 설치하고, Podman으로 DNS 차단, AI 에이전트, 모니터링, RSS 등을 운영하는 홈랩 구축 RAM 512MB, 1GHz ARM Cortex-A53 4코어 와 4GB eMMC를 갖췄으며, 설치 과정은 다소 복잡하지만 적은 전력으로 소음 없이 홈 서버를 운영할 수 있음 AdGuard Home 으로 DNS 수준에서 유해 도메인을 차단하고, CastSponsorSkip 으로 Google Cast 재생 중 협찬 구간을 건너뛰는 등 일상에 유용한 서비스를 구동함 ZeroClaw 를 연결해 텔레그램에서 서버 로그와 남은 디스크 공간을 물어봄. …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677043+00:00"
+  },
+  {
+    "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
+    "url": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T05:51:20+09:00",
+    "excerpt": "Anthropic은 AI 에이전트가 다음 세션을 위해 무엇을 기억하고, 쌓인 기억을 어떻게 정리할지 Claude로 실험함 에이전트는 검증된 해결법이나 이어서 할 일을 노트로 남겨 다음 세션에서 다시 활용 할 수 있음 드리밍(dreaming) 은 세션 사이에 메모를 원본 대화 로그와 대조해 오류를 고치고, 여러 세션에 흩어진 노트를 주제별로 연결하는 과정임. 관련 내용을 위키로 묶어 나중에 찾아보기 쉽게 만들 수 있음 내부 문서 평가에서 원문 검색에 위키를 더하자 채점 기준 충족률이 53%에서 최대 61% 로 올랐고, 질문당 약 2만 토큰 을 절약 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677080+00:00"
+  },
+  {
+    "title": "요즘은 이런 걸 만들지 않는다: Borland Turbo Pascal 7",
+    "url": "https://news.hada.io/topic?id=36774&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T05:48:20+09:00",
+    "excerpt": "Turbo Pascal 7 은 Windows용 객체 지향 라이브러리, 그래픽 UI 설계 도구, 소스 수준 디버거를 하나의 IDE로 통합해 당시 복잡했던 Windows 프로그래밍의 진입 장벽을 낮춤 Object Windows Library 는 Windows C API를 객체 지향 방식으로 감싸 UI 모델에 맞게 개발할 수 있도록 했으며, 통합 환경은 명령줄 도구와 복잡한 정의 파일을 직접 다루는 부담을 줄임 CP/M 시절의 자원 제약 에 맞춰 만든 컴파일러는 어셈블리로 고도로 최적화됐으며, 중간 파일을 디스크에 쓰는 대신 메모리에서 처리해 Windows PC에서도 빠르게 작동함 쇠퇴에는 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677115+00:00"
+  },
+  {
+    "title": "Apple의 그레이 리스트: iPhone이 철자 입력을 도와주지 않는 단어와 문구들",
+    "url": "https://news.hada.io/topic?id=36773&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T05:45:20+09:00",
+    "excerpt": "Apple 운영체제에서 10만 개가 넘는 단어와 문구 의 예측 입력 완성을 제한하는 그레이 리스트 가 발견됨 제한된 문구는 예측 입력에 나타나지 않으며, 스와이프 입력 에서도 “United Ireland”가 “United Iceland”로 바뀌는 등 다른 표현으로 대체되는 경우가 있음 목록에는 마약과 성행위 관련 표현뿐 아니라 정치적으로 민감한 문구 , “iMessage isn’t working”처럼 Apple 서비스의 문제를 나타내는 표현도 포함돼 있음 독립 연구자 Derik Kauffman 이 특정 문구만 입력하기 어렵다는 점을 조사하다 목록을 찾아냈으며, 정치적 표현에 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677150+00:00"
+  },
+  {
+    "title": "Microsoft Research의 AI Frontiers 그룹이 막을 내림",
+    "url": "https://news.hada.io/topic?id=36772&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T05:42:20+09:00",
+    "excerpt": "AI Frontiers(AIF) 가 Microsoft AI로 재편된 뒤 막을 내림. 공동 설립에 참여한 John Langford는 팀원들의 거취를 최대한 정리하고 회사를 떠남 약 50명 규모 의 AIF는 개인 연구만으로 경쟁하기 어려워진 AI 환경에 대응해 조직적인 연구를 추진했으며, 에이전트와 새로운 모델 역량을 개발함 Langford가 경험한 Microsoft AI의 규모 확장 중심 전략 은 AIF의 연구 지향과 양립하기 어려웠음. 연구보다 데이터 확보, 생성, 개선에 집중하는 환경이었음 연구를 통한 효율 개선 은 규모 확장과 별개로 큰 가치를 가질 수 있음. ByteDance 실 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677185+00:00"
+  },
+  {
+    "title": "대학 도서관에 몰려드는 AI 봇, 공공 접근권을 위협하다",
+    "url": "https://news.hada.io/topic?id=36771&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T04:33:14+09:00",
+    "excerpt": "AI 학습용 데이터를 수집하는 스크래핑 봇 이 대학 도서관 사이트를 느려지거나 중단되게 하면서 학생, 연구자, 일반 시민의 자료 접근을 방해하고 있음 일부 봇은 robots.txt 지침을 무시하고 초당 수천 건의 문서를 요청하며, 수천 개 IP 주소를 사용해 기존 IP 차단 방식으로 대응하기 어려움 University of North Carolina at Chapel Hill에서는 하루에 핀란드 음악 검색 1만 1,000건 이상 이 발생했고, 봇 트래픽 때문에 학생과 교직원이 도서관 목록에 주기적으로 접근하지 못함 CAPTCHA와 로그인 요구 는 봇을 막는 수단이지만 유용한 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677220+00:00"
+  },
+  {
+    "title": "8달러짜리 Linux 컴퓨터(2022)",
+    "url": "https://news.hada.io/topic?id=36770&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T03:38:53+09:00",
+    "excerpt": "Ox64 는 서로 다른 RISC-V 코어 3개를 갖춘 8달러 컴퓨터로, MMU 없는 축소형 커널에 한정되지 않는 Linux 실행을 지원함 당시 이더넷, Wi-Fi, SD 카드가 작동하지 않았으며 , 초기 구동에도 여러 장애물이 있었음 펌웨어는 USB로 직접 기록할 수 없어 UART TX/RX 연결 이 필요했고, 실험에 사용한 CH340G 동글에서는 핸드셰이크가 계속 실패함 RP2040 기반 시리얼 브리지 와 수정한 bflb-mcu-tool 을 조합해 M0 펌웨어 기록에 성공함 이번 단계에서 확인한 결과는 PC로 초기화 로그 수신 까지이며, Linux 실행 성공은 아직 확인하지 못함 Ox64 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677257+00:00"
+  },
+  {
+    "title": "자유 소프트웨어로 법률사무소 운영하기",
+    "url": "https://news.hada.io/topic?id=36769&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T03:35:52+09:00",
+    "excerpt": "영국의 소규모 법률사무소 decoded.legal 은 약 5년째 클라이언트와 서버 양쪽에서 자유 소프트웨어를 사용하며, 문서 작성부터 청구, 사건 관리까지 처리함 업무용 PC는 Debian과 GNOME 을 유지하며, 다른 변호사와 교환할 문서는 LibreOffice Writer로, 일부 문서와 발표 자료는 Markdown 기반 도구로 작성함 최근 주요 변경은 Nextcloud를 Syncthing과 radicale 로 대체한 것으로, 파일 동기화와 일정/연락처 관리를 분리한 조합에 만족하고 있음 서버 측 주요 서비스는 Signal을 제외하고 자체 호스팅 하지만, 사용량이 적었던 Jitsi와 C …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677290+00:00"
+  },
+  {
+    "title": "Unitree는 왜 로봇을 손으로 조립할까? 제조 자동화 기회를 본 공장 탐방기",
+    "url": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T02:49:45+09:00",
+    "excerpt": "항저우 Unitree의 로봇 생산은 여전히 수작업 중심 이며, 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음 휴머노이드는 아직 잦은 제품 변경과 재프로그래밍 비용 이 자동화를 어렵게 함. 특정 모델에 맞춘 조립 설비는 다음 세대에 쓰기 어려워, Unitree는 여러 모델이 공유하는 관절 모듈부터 자동화 하고 있음 미국의 공장 노동비는 중국의 약 7.5배 여서 같은 자동화 설비의 절감 가치가 훨씬 큼. 중국산 로봇과 부품에 대한 규제까지 더해지면서 저렴한 해외 노동력에 의존하는 선택지가 줄어듦 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677325+00:00"
+  },
+  {
+    "title": "Chomsky와 통계적 학습의 두 문화(2011)",
+    "url": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-08T02:46:45+09:00",
+    "excerpt": "통계적 언어 모델의 예측 성능과 과학적 이해 는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음 통계적 모델, 확률 모델, 학습된 모델 은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배제하게 됨 2011년 당시 통계적 방법 은 언어 처리의 지배적인 접근법이었음. 검색, 음성 인식, 기계 번역뿐 아니라 품사 태깅과 구문 분석에서도 널리 쓰였으며, 규칙 기반 또는 혼합형 시스템의 성공 사례도 존재함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:05.677358+00:00"
+  },
+  {
+    "title": "Commodore PET – The Worlds First Personal Computer",
+    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 23:15:34 +0000",
+    "excerpt": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 5 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105519+00:00"
+  },
+  {
+    "title": "GitHub New pull request overview page in public preview",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 23:09:40 +0000",
+    "excerpt": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 40 # Comments: 26",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105546+00:00"
+  },
+  {
+    "title": "IRA Velinsky – Commodore's Industrial Designer",
+    "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 22:45:39 +0000",
+    "excerpt": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 8 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105565+00:00"
+  },
+  {
+    "title": "Making any integer with four 2s (2025)",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 22:38:58 +0000",
+    "excerpt": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 44 # Comments: 8",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105582+00:00"
+  },
+  {
+    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+    "url": "https://eyesrhythm.com/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 21:47:47 +0000",
+    "excerpt": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating dro",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105645+00:00"
+  },
+  {
+    "title": "MeccanicOS",
+    "url": "https://meccanicos.com/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 21:13:44 +0000",
+    "excerpt": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 14 # Comments: 4",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105660+00:00"
+  },
+  {
+    "title": "Shadow of the Sun (2021)",
+    "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 21:11:05 +0000",
+    "excerpt": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 18 # Comments: 4",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105675+00:00"
+  },
+  {
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 20:45:32 +0000",
+    "excerpt": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 146 # Comments: 104",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105692+00:00"
+  },
+  {
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 18:12:12 +0000",
+    "excerpt": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 315 # Comments: 80",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105708+00:00"
+  },
+  {
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "url": "https://hunch.net/?p=13764006",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 18:02:17 +0000",
+    "excerpt": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 359 # Comments: 206",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105724+00:00"
+  },
+  {
+    "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+    "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 17:54:56 +0000",
+    "excerpt": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 39 # Comments: 14",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105740+00:00"
+  },
+  {
+    "title": "Five memorable books about programming (2008)",
+    "url": "https://prog21.dadgum.com/19.html",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 17:30:49 +0000",
+    "excerpt": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 81 # Comments: 52",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105754+00:00"
+  },
+  {
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 17:27:30 +0000",
+    "excerpt": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on epp",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105847+00:00"
+  },
+  {
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 17:19:00 +0000",
+    "excerpt": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 187 # Comments: 55",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105865+00:00"
+  },
+  {
+    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "source": "Hacker News",
+    "published": "Sat, 07 Nov 2026 17:06:36 +0000",
+    "excerpt": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 339 # Comments: 226",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-08T00:58:08.105883+00:00"
+  },
+  {
     "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
     "url": "https://news.hada.io/topic?id=36742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
