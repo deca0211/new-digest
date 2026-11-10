@@ -1,5 +1,305 @@
 [
   {
+    "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
+    "url": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T12:15:29+09:00",
+    "excerpt": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다. 공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처럼 rm이 없는데 작업을 날리는 명령도 있었습니다. 궁금한 건 세 가지입니다. 권한은 어떻게 두시나요? 매번 확인, 일부 명령만 자동 허용 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003371+00:00"
+  },
+  {
+    "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
+    "url": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T11:35:11+09:00",
+    "excerpt": "Fable 5.2 가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함 기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개 를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함 게임을 플레이하는 봇 을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문제를 확인함 가족과의 플레이테스트 후 기술과 캐릭터를 추가하면서, 최종적으로 18개 캐릭터와 4인 플레이 를 지원하는 게임으로 확장됨 최초 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003410+00:00"
+  },
+  {
+    "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
+    "url": "https://news.hada.io/topic?id=36928&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T11:15:00+09:00",
+    "excerpt": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다. 주요기능 안드로이드, iOS, 웹 버전 지원 FSRS 알고리즘 기반 데일리 퀴즈 Anki 덱 Import / Export Streak, Stats, Reminder(Notification) 장점 저렴한 비용(월 플랜 2,200원) 잡다하지 않은 기능, 심플한 UI 향후 추가될 기능 사용자의 단어 DB에 기반한 새 단어 추천 AI를 이용한 예문/이미지 생성 언어별 특화 기능(한자 획 쓰기, 히라가나-가타카나 변환 등) 태블릿 앱 매일 눈팅만 하다가 직접 글을 남겨보는건 처음이네요. 항상 긱뉴스에서 좋은 글들 보고 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003435+00:00"
+  },
+  {
+    "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
+    "url": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T10:56:02+09:00",
+    "excerpt": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다. 회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고, 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다. 사용 예시 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정 고객 미팅: 고 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003456+00:00"
+  },
+  {
+    "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
+    "url": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T10:53:46+09:00",
+    "excerpt": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB 까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개 30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함 BF16 모델을 그대로 터너리로 바꾸면 GSM8K·HumanEval 0.00점 , IFEval-ko 10.36점 on/off-policy di …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003478+00:00"
+  },
+  {
+    "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
+    "url": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T10:50:02+09:00",
+    "excerpt": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용 해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함 출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 고품질 음성 생성 부터 해결함 연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적으로 연구 격차가 줄어들 가능성에 대비해 제품과 음성 마켓플레이스 도 구축함 소규모 자율 팀과 제품팀 소속 현장 엔지니어(FDE) 가 고객과 함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003498+00:00"
+  },
+  {
+    "title": "왜 이 모든 OT 시스템이 네트워크에 연결돼 있는지 이야기해 보자",
+    "url": "https://news.hada.io/topic?id=36922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T10:04:26+09:00",
+    "excerpt": "OT의 네트워크 연결 은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움 IT/OT 융합과 공급업체의 구축 방식 표준화 로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐 원격 지원 은 산업 운영과 공급업체 계약의 일부가 됐으며, 공식 DMZ 외에도 현장 직원과 여러 업체가 설치한 접속 경로가 존재할 수 있음 분산 설비와 예산 부족, 긴 수명주기 가 겹치는 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003517+00:00"
+  },
+  {
+    "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
+    "url": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:44:04+09:00",
+    "excerpt": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료 함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함 5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행 하는 것이 목표. 활성 파라미터는 약 30억~200억 개 이며, 메모리 대역폭은 전작의 3배인 150GB/s 로 높임 Samsung의 LPDDR5x-PIM 으로 GEMV 연산을 넘기면 Llama3.1-8B 처리량이 DX-M2 단독 대비 6.7배 가 될 것으로 시뮬레이션에서 예측함. 다만 전체 소비전력도 2.7배로 늘어나며, 동일 전력에서는 약 2배의 성능 향상을 예상함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003538+00:00"
+  },
+  {
+    "title": "CUI - C용 네이티브 UI 컴포넌트",
+    "url": "https://news.hada.io/topic?id=36919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:41:04+09:00",
+    "excerpt": "CUI 는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 160개 UI 컴포넌트 를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤 즉시 모드(immediate mode) 방식으로 컴포넌트 함수가 자신을 그리고 발생한 동작을 반환함. 개발자의 변수를 상태로 사용하고 매 프레임 화면 전체를 다시 기술해 별도 상태 동기화가 필요 없음 데이터 그리드, 명령 팔레트, 노드 편집기 등 완성형 컴포넌트 를 제공하며, 별도 스타일링 없이도 완성된 외관을 갖추도록 함께 설계함 의존성 없이 완성된 앱 크기가 약 250KB이며, 프로젝트가 제 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003557+00:00"
+  },
+  {
+    "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
+    "url": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:38:04+09:00",
+    "excerpt": "Google이 8세대 TPU에 TPU 8tx 와 TPU 8i Max 를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함 기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄 TPU 8tx 는 사용 중인 민감 데이터와 모델 가중치까지 하드웨어 수준에서 보호하며, TPU 8t 대비 지연 시간을 최대 절반으로 줄이고 같은 시스템에서 비공개 미세 조정과 에이전트 실행을 지원함 TPU 8i …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003577+00:00"
+  },
+  {
+    "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
+    "url": "https://news.hada.io/topic?id=36917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:30:02+09:00",
+    "excerpt": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성 하고 GPU로 렌더링 영상 및 모션 그래픽 은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성 3D/게임 은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로 실행하거나 독립 실행 프로그램으로 제작 에이전트가 특정 프레임을 이미지로 뽑아 확인하고 코드를 고치는 작업 까지 할 수 있음 잘린 텍스트, 낮은 대비, 화면 멈춤, 음량 문제를 검사하는 명령도 제공 Claude Code용 플러그인과 에이전트 스킬 제공 Rust/Bevy 기반 이며 macOS/Linux/Windows 빌드 제공 제작 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003596+00:00"
+  },
+  {
+    "title": "Show GN: Woodada - CPU와 메모리 사용률에 따라 작업표시줄 위를 달리는 고양이",
+    "url": "https://news.hada.io/topic?id=36916&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:22:18+09:00",
+    "excerpt": "CPU와 메모리 사용률에 따라 고양이가 작업표시줄(맥은 독) 위를 우다다 뛰어다니는 데스크톱 앱을 직접 만들었습니다. Windows 10/11과 macOS 12 이상에서 쓸 수 있고, 가입 없이 다운로드해서 바로 실행하면 됩니다. 만든 계기 맥에서 RunCat을 매일 켜 두고 쓰면서 메뉴 막대 아이콘 안에서 열심히 달리는 고양이를 보다가, 실제로 화면 위를 뛰어다니면 어떨까 싶어서 만들기 시작했습니다. 고양이를 작업표시줄 위로 꺼내 놓으니 CPU와 메모리 사용량이 한눈에 보였습니다. 여기에 달린 만큼 생선이 쌓이는 시스템을 붙여서, 생선 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003614+00:00"
+  },
+  {
+    "title": "Terminal2Shell: 모든 주요 OS에서 즉시 셸 접근을 허용하는 치명적 결함",
+    "url": "https://news.hada.io/topic?id=36915&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:05:45+09:00",
+    "excerpt": "터미널을 열면 셸이 실행되는 정상 동작 을 설계 수준의 취약점으로 포장한 보안 풍자 페이지임 공격은 터미널을 여는 것으로 끝나며, 필요한 조건은 로컬 접근, 작동하는 키보드, 터미널 앱을 찾는 능력 임 macOS, Linux, Windows부터 BSD, 라우터, VS Code까지 영향 대상으로 나열하고, Microsoft Paint는 영향 없음 으로 구분함 터미널을 열지 않기, 느리게 타이핑하기, 키보드 제거하기 등을 완화책으로 내놓으며 셸 사용 자체를 공격으로 취급 하는 농담을 이어감 공개 일정과 FAQ는 정상 기능에 취약점 이름, 로고, 도메인을 붙이고 공 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003633+00:00"
+  },
+  {
+    "title": "배포판 패키지를 빌드하는 데 에너지가 얼마나 들까",
+    "url": "https://news.hada.io/topic?id=36914&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T09:02:45+09:00",
+    "excerpt": "Casuarina Linux 빌드 서버는 7개월 조금 넘는 기간 동안 패키지 약 5,000건을 빌드하며 98.4kWh 를 사용함 전력 단가 AU$0.33/kWh를 적용한 비용은 AU$32.47 로, 일일 기본요금과 태양광 발전, 사전 빌드용 워크스테이션을 제외하면 월 AU$5 미만임 패키지를 갱신하는 사람이 한 명뿐이어서 빌드할 때만 서버를 켰으며, 유휴 소비전력 약 55W 를 피할 수 있었음 모든 패키지를 데스크톱에서 먼저 빌드했으므로 실제 총사용량은 측정치의 두 배 이상일 가능성 이 있음 가장 오래 걸린 Chromium 빌드는 약 4시간이 소요됐으며, 서버의 최대 부 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003652+00:00"
+  },
+  {
+    "title": "Show GN: Visitown - 방문자가 픽셀 마을을 걸어 다니는 실시간 방문자 분석",
+    "url": "https://news.hada.io/topic?id=36911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-10T08:16:56+09:00",
+    "excerpt": "웹사이트 방문자를 픽셀 캐릭터로, 페이지를 마을 건물로 보여 주는 실시간 방문자 분석 도구를 만들었어요. 방문자가 페이지를 옮기면 캐릭터가 건물 사이를 실제로 걸어가요. 봇은 회색 로봇, 재방문자는 모자, 검색 유입은 돋보기를 들고 나타나요. 설치는 스크립트 한 줄이고 SDK는 gzip 약 7KB예요. 쿠키를 쓰지 않고 IP도 저장하지 않아요(나라 코드만 남겨요). 원본 기록은 7일 뒤 지워져요. 테마가 10종 있어요(한옥 장터·사이버펑크·우주 정거장·캔디 마을 등). \"두 나라에서 방문\", \"새벽 0~5시 방문자\"처럼 목표를 채우면 하나 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:18.003668+00:00"
+  },
+  {
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 03:20:06 +0000",
+    "excerpt": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 6 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450137+00:00"
+  },
+  {
+    "title": "Locating the source of a mysterious beep",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 00:10:46 +0000",
+    "excerpt": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 39 # Comments: 19",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450159+00:00"
+  },
+  {
+    "title": "Horible public key tricks",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 00:07:17 +0000",
+    "excerpt": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 53 # Comments: 21",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450168+00:00"
+  },
+  {
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 23:08:13 +0000",
+    "excerpt": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 230 # Comments: 155",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450177+00:00"
+  },
+  {
+    "title": "Exact – a new cross platform UI framework",
+    "url": "https://github.com/expo/exact",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 22:59:13 +0000",
+    "excerpt": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 76 # Comments: 32",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450188+00:00"
+  },
+  {
+    "title": "TPU 8tx and TPU 8i Max",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 21:56:57 +0000",
+    "excerpt": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 226 # Comments: 67",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450197+00:00"
+  },
+  {
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 20:04:55 +0000",
+    "excerpt": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 303 # Comments: 226",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450207+00:00"
+  },
+  {
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "url": "https://postalpro.usps.com/zcb",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 19:58:59 +0000",
+    "excerpt": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 519 # Comments: 267",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450215+00:00"
+  },
+  {
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "url": "https://parkgraph.com/parking-app-fees",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 19:55:53 +0000",
+    "excerpt": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 63 # Comments: 44",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450224+00:00"
+  },
+  {
+    "title": "CUI – Native UI components for C",
+    "url": "https://yappologistic.github.io/CUI/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 19:35:16 +0000",
+    "excerpt": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 160 # Comments: 85",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450233+00:00"
+  },
+  {
+    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+    "url": "https://someonewashere.app/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 18:50:56 +0000",
+    "excerpt": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads. Real-time remote alerts are available via one-time $4.99 lifetime purchase v",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450257+00:00"
+  },
+  {
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "url": "https://e-means.github.io/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 18:45:43 +0000",
+    "excerpt": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 297 # Comments: 24",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450266+00:00"
+  },
+  {
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "url": "https://meowdisplay.app/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 18:39:22 +0000",
+    "excerpt": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the REA",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450312+00:00"
+  },
+  {
+    "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+    "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 18:25:01 +0000",
+    "excerpt": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 112 # Comments: 64",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450321+00:00"
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "source": "Hacker News",
+    "published": "Mon, 09 Nov 2026 18:24:38 +0000",
+    "excerpt": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 464 # Comments: 112",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-10T03:53:19.450330+00:00"
+  },
+  {
     "title": "AI에 회사 맥락을 제공하고 ‘회사 두뇌’를 구축하는 방법",
     "url": "https://news.hada.io/topic?id=36856&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
