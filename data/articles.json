@@ -1,5 +1,305 @@
 [
   {
+    "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
+    "url": "https://news.hada.io/topic?id=36968&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T09:31:22+09:00",
+    "excerpt": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스타일로 학습한 이미지 모델이 타일별로 다시 그림 각 타일이 이미 그려진 이웃 타일과 이어지도록 처리해 끊김 없는 도시 지도 를 구성함 발렌시아 행정구역 전체 를 그렸지만, 참고할 3D 영상이 없는 일부 작은 우에르타 농경지 월경지는 제외함 드래그와 확대/축소, 검색으로 지도를 탐색할 수 있고 현재 화면이 주소에 반영 돼 복사한 링크로 같은 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808226+00:00"
+  },
+  {
+    "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
+    "url": "https://news.hada.io/topic?id=36967&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T09:30:02+09:00",
+    "excerpt": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 . 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원 운영체제의 접근성 API로 버튼, 메뉴, 입력란을 JSON으로 가져와 , 화면 좌표 대신 각 요소의 ID로 클릭하거나 텍스트를 입력할 수 있음 요소 ID로 조작할 때는 기본적으로 마우스 포인터를 움직이거나 앱 포커스를 가져오지 않음 . 필요하면 스크린샷을 찍거나 키보드와 마우스로 직접 입력할 수도 있음 CLI, MCP 서버, C 라이브러리 로 연결할 수 있으며, 무엇을 조작하고 결과를 어떻게 확인할지 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808269+00:00"
+  },
+  {
+    "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
+    "url": "https://news.hada.io/topic?id=36966&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T08:32:25+09:00",
+    "excerpt": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을 지향함 첫 양산 모델 KEI-01 은 Toyota Pixis의 배지를 바꾼 초소형 경트럭으로, 미국 판매를 위해 Indiana의 기존 생산 인프라를 활용할 예정임 미국 저속차량 안전 기준 에 맞춰 최고속도가 시속 25마일 미만으로 제한되고, 제한속도가 시속 35마일 미만인 도로에서만 운행할 수 있어 일상용보다는 상업용과 농업용에 초점을 맞춤 판매는 2027년 말 업무용 차량 시범사업 으로 소량 시작하 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808296+00:00"
+  },
+  {
+    "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
+    "url": "https://news.hada.io/topic?id=36965&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T07:41:42+09:00",
+    "excerpt": "영아 모니터부터 위치 추적 앱까지 이어지는 상시 감시 는 아이가 독립성을 기르는 과정뿐 아니라, 부모가 자녀에 대한 지식과 통제를 내려놓는 과정에도 영향을 줄 수 있음 위치 추적 은 픽업과 일정 조율에 유용하지만, 위치를 안다고 동행인이나 실제 위험까지 알 수 있는 것은 아님 앱을 반복해서 확인하는 안심 추구 행동 은 잠시 불안을 덜어도 다시 확인하게 만드는 함정이 될 수 있으며, 위치 오류가 오히려 공포와 과잉 대응을 촉발한 사례도 있음 Life360 은 추적이 부모를 안심시켜 청소년에게 더 많은 자유를 준다고 반박하지만, …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808322+00:00"
+  },
+  {
+    "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
+    "url": "https://news.hada.io/topic?id=36964&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T07:38:42+09:00",
+    "excerpt": "Modern Web Guidance 는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최신 웹 기본 기능을 활용하도록 유도함 LLM 학습 데이터에 많은 오래된 코드와 부족한 최신 구현 사례를 보완하기 위해, 전문가가 선별한 가이드 를 작업에 맞춰 에이전트의 컨텍스트에 직접 전달함 로컬 의미 검색과 BM25 로 관련 가이드를 찾으며, 검색에는 네트워크 호출이나 API 키가 필요 없음 Baseline 호환성 데이터 와 가벼운 대체 구현을 활용하고, 실험적이거나 불안정한 기능의 가이 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808350+00:00"
+  },
+  {
+    "title": "Starlink Mini 2 - 교체형 배터리를 탑재한 휴대용 위성 인터넷 단말기",
+    "url": "https://news.hada.io/topic?id=36963&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T06:43:04+09:00",
+    "excerpt": "교체형 배터리로 최대 4.5시간 작동하며, 별도 판매하는 예비 배터리로 교체할 수 있음 1세대는 DC 전원 케이블을 사용했고, Mini 2는 배터리 또는 60W USB-C 전원 으로 작동함. 충전 중에도 인터넷 연결을 유지할 수 있음 Wi-Fi 6 를 내장하며, 공식 사양상 최대 167㎡를 커버함. 본체는 IP67 방진·방수 등급 일부 미국 고객을 대상으로 초대제 사전 주문 을 시작했으며, 한국어 공식 페이지에서는 출시 알림 신청만 가능",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808373+00:00"
+  },
+  {
+    "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
+    "url": "https://news.hada.io/topic?id=36962&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T06:40:04+09:00",
+    "excerpt": "Linux용 DisplayLink 드라이버의 충돌을 해결하려던 개인 개발자가 Synaptics의 특허 침해 주장과 중단 요구 를 받고, 새 드라이버 Vino의 공개 저장소를 내리고 커널 제출을 중단함 Vino 는 Rust 기반 DRM/KMS 드라이버로, 세 번째 패치 버전에서는 제조사 소프트웨어 없이 3세대에 걸친 DL3 도킹 스테이션을 제어할 수 있었음 Synaptics는 클린룸 구현도 특허 침해를 피하지 못할 수 있다 고 경고했으며, 요구 불이행 시 2만 5,000달러 를 청구하고 매주 같은 금액을 추가하겠다고 통보함 개발자와 Synaptics 모두 Open Invention Network( …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808400+00:00"
+  },
+  {
+    "title": "Val Town, 단계적으로 서비스 종료",
+    "url": "https://news.hada.io/topic?id=36961&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T06:37:03+09:00",
+    "excerpt": "클라우드에서 스크립트를 실행하는 서비스 Val Town 이 클라우드 컴퓨팅 시장에서 경쟁하기 어려워 단계적으로 운영을 종료함 2026년 11월 10일 신규 가입, 요금제 업그레이드, 과금을 중단함. 기존 구독은 무료로 계속 제공하며, 연간 요금제 선결제 고객에게는 일부를 환불함 2026년 12월 10일 읽기 전용으로 전환함. SQLite와 Blob 스토리지 는 이 전환에서 제외됨 2027년 1월 10일 호스팅 서비스를 종료하고, 2월 1일 Val Town을 오픈소스로 공개할 예정임 Cloudflare, Vercel, Netlify, Render로 옮기는 방법을 안내하며, 이메일과 Di …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808426+00:00"
+  },
+  {
+    "title": "내 SSH 키를 모두 삭제했다",
+    "url": "https://news.hada.io/topic?id=36960&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T05:41:36+09:00",
+    "excerpt": "개인 환경에서 쓰던 기존 파일형 SSH 개인키 를 모두 없애고, YubiKey, TPM, Apple Secure Enclave에 묶인 키로 전환해 보호되지 않은 키를 디스크에 남지 않게함 YubiKey와 Secure Enclave 는 하드웨어 안에서 개인키를 보호함. TPM 방식 은 암호화된 키 파일을 디스크에 두며, 파일을 복사해도 원래 TPM이 있어야 키를 쓸 수 있음 YubiKey 5 이상 은 OpenSSH만으로 ed25519-sk 키를 사용할 수 있으며, macOS Sequoia 부터는 운영체제의 Smart Card Auth 기능으로 Secure Enclave 기반 SSH 키를 만들 수 있음 무인 인증 도 가능하지만 사용자 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808453+00:00"
+  },
+  {
+    "title": "Queens Public Library, 랜섬웨어 공격으로 네트워크 장애 발생",
+    "url": "https://news.hada.io/topic?id=36959&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T05:39:05+09:00",
+    "excerpt": "Queens Public Library(QPL) 가 랜섬웨어 공격을 받아 모든 지점에 영향을 미치는 대규모 네트워크 장애를 겪고 있음 웹사이트와 QPL Mobile App , 디지털 미디어 서비스 및 운영 중인 대부분 지점의 공용 컴퓨터가 영향을 받음 운영 중인 모든 지점의 무료 Wi-Fi와 대출/반납 기기 는 복구됐으며, 7개 지점에서는 공용 컴퓨터도 다시 이용할 수 있음 모든 지점은 예정대로 운영하며 자료 대출과 반납도 가능하지만, 장애 기간에는 대출 기간 연장이 불가능함 일부 온라인/대면 프로그램은 영향을 받을 수 있으며, 네트워크와 시스템 복구에 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808478+00:00"
+  },
+  {
+    "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
+    "url": "https://news.hada.io/topic?id=36958&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T05:38:41+09:00",
+    "excerpt": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시 하고, 기존 Claude Dashboards를 Claude Data로 정식 출시 함. 모두 유료 플랜에서 이용할 수 있음 Whiteboards 는 Claude와 팀원이 실시간으로 아이디어를 정리하는 공유 보드로, 계획을 담당자와 날짜가 있는 타임라인으로 만들거나 회의 메모에서 실행 항목을 도출할 수 있음 Sheets 는 프롬프트로 스프레드시트를 만들고 함께 편집하는 도구임. 현재는 기본적인 기능을 지원하며, 더 고급 기능이 필요하면 Excel 등으로 작업을 이어갈 수 있음 Claude Data 는 대시보드를 넘어 데이터 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808505+00:00"
+  },
+  {
+    "title": ".NET 11 런타임의 새로운 기능",
+    "url": "https://news.hada.io/topic?id=36957&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T05:36:05+09:00",
+    "excerpt": "Runtime Async V2 가 미리보기로 도입돼 컴파일러 생성 상태 머신 대신 런타임이 비동기 실행의 중단과 재개를 관리함. 실행 중 스택 추적과 디버깅을 개선하고 비동기 처리 오버헤드를 줄임 최소 CPU 요구사항 이 높아짐. x86/x64는 x86-64-v2 , Windows Arm64는 LSE 가 필요하며, 새 기준을 충족하지 못하는 구형 하드웨어에서는 실행되지 않음 JIT와 SIMD 최적화 로 불필요한 경계 검사와 가상 호출을 줄이고, 지원 CPU에서 Half 연산에 하드웨어 FP16 명령을 활용함 ReadyToRun과 NativeAOT 의 비교자 및 인터페이스 호출 성능이 개선됨. R …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808530+00:00"
+  },
+  {
+    "title": "AI 사용은 취약한 코드베이스를 만든다",
+    "url": "https://news.hada.io/topic?id=36955&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T04:33:28+09:00",
+    "excerpt": "AI는 당장 주어진 코딩 문제를 잘 풀어도 , 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움 AI가 만든 테스트는 이미 다루는 동작을 반복해서 확인 하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 코드를 이해하고 디버깅하기 어렵게 만들기도 함 AI 의존도가 높아질수록 개발자의 코드베이스 이해도 가 낮아지고, 빠르게 쏟아지는 PR은 검토 시간을 줄여 테스트 공백과 작은 품질 문제가 기술 부채로 쌓이게 함 취약해진 코드베이스에서는 장애 증가와 복구 지연 , 실제 사용자에게 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808554+00:00"
+  },
+  {
+    "title": "Ableton Live 13 - 스텝 시퀀서와 ARA 2 지원을 추가한 차기 주요 버전",
+    "url": "https://news.hada.io/topic?id=36954&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T03:44:52+09:00",
+    "excerpt": "Live 13 은 2027년 초 출시 예정으로, 오디오/MIDI 작업 흐름과 사운드 디자인, 믹싱 도구를 확장하며 Live 12에서 가능했던 작업을 그대로 지원함 내장 Step Sequencer 로 비트, 멜로디, 폴리리듬을 만들고, Capture Automation 으로 탐색 중 조작한 컨트롤 움직임을 자동화로 전환할 수 있음 ARA 2 호환 플러그인으로 고급 오디오 편집을 지원하며, Melodyne을 포함한 대부분의 ARA 2 플러그인이 작동하지만 일부에는 알려진 호환성 문제가 있음 20개 이상의 드럼 엔진을 갖춘 Drum Synth 와 최대 32개 매크로를 지원하는 Rack 등으로 음색 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808581+00:00"
+  },
+  {
+    "title": "스마트 홈 기기는 인터넷 없이도 작동해야 한다",
+    "url": "https://news.hada.io/topic?id=36953&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-11T03:41:52+09:00",
+    "excerpt": "핵심 기능은 제조사 서버에 의존하지 않아야 한다 는 원칙으로, ESP 보드의 Tasmota, MQTT, Raspberry Pi의 Node-RED를 중심으로 집을 자동화함 자동화를 추가하더라도 기존 조작 방식 은 유지해야 함. Alexa가 중단되거나 인터넷이 끊겨도 벽 스위치와 벽면 대시보드로 조작할 수 있어야 함 MQTT 발행/구독 으로 기기를 분리하고, Node-RED로 동작을 연결하며, Grafana로 상태를 확인함. 같은 기기를 제어하는 자동화 간 충돌도 주기적으로 점검함 거주자가 늘면서 다중 사용자 환경 에 맞춰 규칙을 확장함. 설정을 한곳에서 관리하고, 다양 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:12.808604+00:00"
+  },
+  {
+    "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+    "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 23:41:41 +0000",
+    "excerpt": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 11 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284131+00:00"
+  },
+  {
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 22:17:56 +0000",
+    "excerpt": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 184 # Comments: 75",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284156+00:00"
+  },
+  {
+    "title": "$30M Raised to Redo the CPU",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 22:14:03 +0000",
+    "excerpt": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 21 # Comments: 7",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284170+00:00"
+  },
+  {
+    "title": "rVPN – stealth VPN with end-to-end encryption",
+    "url": "https://rvpn.org/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 21:42:50 +0000",
+    "excerpt": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 58 # Comments: 51",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284183+00:00"
+  },
+  {
+    "title": "Six Math Essentials by Terence Tao",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 20:58:44 +0000",
+    "excerpt": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 119 # Comments: 24",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284195+00:00"
+  },
+  {
+    "title": "Sherman Anti-Trust Act (1890)",
+    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 20:56:16 +0000",
+    "excerpt": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 71 # Comments: 42",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284206+00:00"
+  },
+  {
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 19:50:46 +0000",
+    "excerpt": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 316 # Comments: 235",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284218+00:00"
+  },
+  {
+    "title": "Research taste in history: the importance of learning Babylonian math",
+    "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 19:42:44 +0000",
+    "excerpt": "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 8 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284230+00:00"
+  },
+  {
+    "title": "What objective is reasoning solving?",
+    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 19:25:14 +0000",
+    "excerpt": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 100 # Comments: 44",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284240+00:00"
+  },
+  {
+    "title": "A comprehensive study of how fingerprintable users are",
+    "url": "https://fingerprinting.study/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 19:03:54 +0000",
+    "excerpt": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 69 # Comments: 30",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284251+00:00"
+  },
+  {
+    "title": "Starlink Mini 2",
+    "url": "https://starlink.com/mini-2",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 18:22:32 +0000",
+    "excerpt": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 225 # Comments: 233",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284261+00:00"
+  },
+  {
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 18:02:02 +0000",
+    "excerpt": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 289 # Comments: 154",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284272+00:00"
+  },
+  {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 18:01:15 +0000",
+    "excerpt": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent +JS based pattern. We starte",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284369+00:00"
+  },
+  {
+    "title": "Val Town is winding down",
+    "url": "https://blog.val.town/winding-down",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 17:31:14 +0000",
+    "excerpt": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 303 # Comments: 78",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284380+00:00"
+  },
+  {
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "source": "Hacker News",
+    "published": "Tue, 10 Nov 2026 17:02:32 +0000",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 182 # Comments: 68",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-11T01:36:16.284391+00:00"
+  },
+  {
     "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
     "url": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
