@@ -1,5 +1,295 @@
 [
   {
+    "title": "OpenAI, 범용 모델이 로봇을 제어하기 시작하면서 로보틱스 팀 해체",
+    "url": "https://news.hada.io/topic?id=37180&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T08:34:39+09:00",
+    "excerpt": "OpenAI가 독립 로보틱스 팀을 해체 하고 인력을 기존 연구 및 응용 조직으로 재배치함. 회사는 로봇 개발 철수가 아니라 범용 로봇 개발을 가속하기 위한 개편이라고 밝힘 개편의 계기는 GPT-6 Astra 등 범용 모델을 로봇에 직접 적용할 수 있다는 발견 임. 로봇 전용 모델을 별도로 개발하기보다 언어, 코드, 시각 모델의 역량을 활용하는 방식에 무게를 둠 Nvidia 연구에서 Astra 기반 에이전트는 시뮬레이션 조작 벤치마크 성공률 74.8% 를 기록해 최고 로봇 특화 모델의 51.0%를 웃돌았음. 실제 로봇이 아닌 디지털 환경의 결과임 전문 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306670+00:00"
+  },
+  {
+    "title": "PyPI, 보안 신호를 더 명확히 보여주는 개편된 프로젝트 페이지 공개",
+    "url": "https://news.hada.io/topic?id=37178&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T07:36:47+09:00",
+    "excerpt": "PyPI 프로젝트 상세 페이지 개편 이 완료돼 적용됨. 새 보안 탭에서 릴리스의 출처 상태와 파일별 증명 정보를 확인할 수 있음 출처 상태 는 릴리스 파일의 증명 보유 여부로 계산함. 증명이 없다는 사실만으로 악성 파일인 것은 아니며, 파일의 출처를 암호학적으로 검증할 수 없다는 뜻임 출처 경고 는 일부 파일의 증명 누락, 같은 릴리스 내 출처 불일치, 이전 릴리스 대비 출처 변경이나 증명 소실을 알림. 정상적인 사유도 있지만 설치 전에 확인해야 함 프로젝트 상세 페이지 는 출처 경고를 상단에 표시하고, 메타데이터를 검증 여부 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306720+00:00"
+  },
+  {
+    "title": "SpaceX, Starship 포획으로 15차 비행 마무리",
+    "url": "https://news.hada.io/topic?id=37177&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T07:33:47+09:00",
+    "excerpt": "SpaceX, Starship 포획으로 15차 비행 마무리",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306735+00:00"
+  },
+  {
+    "title": "코끼리의 고립 심화로 사회적 연결망이 분절됨",
+    "url": "https://news.hada.io/topic?id=37176&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T06:36:00+09:00",
+    "excerpt": "UC San Diego 연구진이 스리랑카의 야생 암컷 아시아코끼리 440마리 이상을 12년간 분석 한 결과, 개체군 감소와 함께 사회 집단이 작아지고 서로 고립되는 변화를 확인함 개체 손실이 서서히 누적된 뒤 연결망이 급격히 바뀌어, 개체군이 사회적 임계점 을 넘어섰을 가능성이 있음 단순히 개체 수 감소로 관계 수가 줄어든 것뿐 아니라, 남아 있는 코끼리 사이의 관계 자체도 변화 함 코끼리는 사회적 관계를 통해 먹이 탐색, 정보 획득, 새끼 양육 을 수행하므로 연결망의 분절이 우려되며, 임계점을 지난 뒤에는 이전 상태로 돌아가기 어려 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306768+00:00"
+  },
+  {
+    "title": "Microsoft 장애, 고객들에게 Microsoft 의존도를 뼈저리게 깨닫게 하다",
+    "url": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T06:33:00+09:00",
+    "excerpt": "Microsoft 365의 장시간 장애 로 이메일, Teams 메시징, 파일 접근, Copilot 등 여러 업무 서비스가 영향을 받으면서, 기업들이 Microsoft 생태계에 얼마나 깊이 의존하는지 드러남 Microsoft는 11월 12일 18:26 GMT에 장애가 시작됐다고 밝혔으며, Exchange Online, Microsoft 365 Education 등에서 문제가 발생함. 13일 14:01 GMT에는 서비스 가용성이 개선되고 있다고 발표함 Nextcloud 공동 창업자 Jos Poortvliet은 단일 공급업체에 모든 시스템을 의존하면 장애 발생 시 다른 서비스로 신속하게 전환하거나, 예비 시스템을 가동하거나, 외부 연결을 끊고 업무를 지속하기 어렵다 고 지적함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306820+00:00"
+  },
+  {
+    "title": "Google은 왜 AI를 쓰지 않는 학교의 검색 접근까지 차단하나? 몇 가지 가설",
+    "url": "https://news.hada.io/topic?id=37174&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T05:43:10+09:00",
+    "excerpt": "Google은 학교가 학생의 검색 결과에서 AI Overviews를 끄려면 Google Search 접근도 함께 차단해야 한다 는 방침을 밝혀 학부모와 교육계의 반발을 사고 있음 교실 내 AI 사용을 금지하는 교육구가 늘어나는 가운데, 기술 사용 축소를 요구하는 학부모들도 검색 기능 상실은 교사에게 문제가 될 것 으로 보고 있음 전직 Google 직원은 검색과 AI가 통합 제품이라는 최근 반독점 소송 판단 을 지키려는 선택일 가능성을 제기함. 다만 Google은 관련 질문에 답하지 않았고, 전문가들도 이 가설을 확신하지 않음 Common Sense Media는 안전하지 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306857+00:00"
+  },
+  {
+    "title": "FAA의 미국 전역 이륙 중단 조치 속 Amtrak 예약 시스템에 심각한 문제 발생",
+    "url": "https://news.hada.io/topic?id=37173&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T05:40:10+09:00",
+    "excerpt": "Amtrak 예약 시스템 이 미국 연방항공청(FAA)의 전국 이륙 중단 조치와 같은 시기에 네트워크 장애를 겪었으며, 금요일 오후 9시경부터 정상화되고 있음 열차 운행은 정상 이며, Amtrak은 전체 노선에서 여행 수요가 늘고 있다고 밝힘 웹사이트와 앱에서 예약 오류가 발생했고, DownDetector 에는 금요일 오후 5시 직전부터 수백 명의 장애 신고가 접수됨 Amtrak은 고객에게 예약 문제가 시스템 전반의 업데이트 와 관련 있다고 답했으나, 구체적인 설명은 하지 않음 정상화 과정에서도 결제와 예약 변경 오류 가 일부 남을 수 있으며, 고객센 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306893+00:00"
+  },
+  {
+    "title": "미네소타 기타리스트의 발명품 ‘palmfrets’, 새로운 화음을 열다",
+    "url": "https://news.hada.io/topic?id=37172&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T05:37:09+09:00",
+    "excerpt": "기타리스트 Ben Ranson이 손바닥으로 현을 추가 프렛에 눌러 베이스 라인이나 멜로디를 연주하는 palmfrets 를 공개함 현을 뜯는 손의 손바닥 아래쪽 콩알뼈 로 현을 누르고 엄지로 뜯는 방식으로, 기타 넥을 짚는 손은 다른 음이나 화음을 더 자유롭게 연주할 수 있음 더 많은 저음을 내기 위한 음악적 실험에서 출발했으며, 엔지니어들과 시제품을 개선한 뒤 2026년 10월 6일 특허 를 취득함 기존 기타의 연주 기능을 방해하지 않고 기능을 더하는 것이 설계 원칙이지만, 새로운 연주법을 익히는 과정 은 필요함 직접 체험한 음악가 Darren …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306926+00:00"
+  },
+  {
+    "title": "3Com에는 무슨 일이 있었나?",
+    "url": "https://news.hada.io/topic?id=37171&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T04:49:32+09:00",
+    "excerpt": "네트워크 카드의 대표 브랜드였던 3Com 은 기업용 네트워크 장비 사업 철수와 비핵심 사업 인수 등 잇따른 판단 실패로 수익성을 잃고, 2009년 말 HP에 27억 달러($2.7b)에 인수 됨 기업용 장비 사업 철수 는 비용 절감 없이 매출 감소와 고객 및 판매점의 반발을 불렀으며, 여러 제품을 한 공급업체에서 구매하려는 기업 수요에도 어긋났음 침체기 매출의 약 절반을 차지한 네트워크 카드 는 Intel의 가격 경쟁에 밀렸고, 장비 사업에 다시 진입하려 할 때는 비용 부담이 커져 있었음 US Robotics 인수 로 진출한 전화접속 모뎀 사업은 광대역 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306959+00:00"
+  },
+  {
+    "title": "이탈리아, Android 사용자 데이터 접근 문제로 Meta에 8억 8,700만 달러 과징금 부과",
+    "url": "https://news.hada.io/topic?id=37170&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T04:46:32+09:00",
+    "excerpt": "이탈리아 개인정보 보호 당국은 Meta가 Android 사용자의 사진과 동영상에 동의나 고지 없이 접근했다 고 판단해 8억 500만 유로, 약 8억 8,700만 달러의 과징금을 부과함 문제가 된 기능은 Facebook 앱의 게시물 추천 기능 으로, 사용자 개인 갤러리에서 게시할 만한 콘텐츠를 추천하며 이탈리아 Android 사용자 약 2,000만 명이 영향을 받음 Meta는 60일 이내 에 해당 기능을 기본적으로 비활성화하고, 사용자 동의를 별도로 받아야 함 Meta는 기기에서 사용자가 권한을 부여해야만 기능이 작동한다고 반박하며, 과징금이 과도하다며 불복 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.306994+00:00"
+  },
+  {
+    "title": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+    "url": "https://news.hada.io/topic?id=37169&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T04:43:32+09:00",
+    "excerpt": "Lovable 프로젝트 159,041개 를 분석한 결과, 여러 앱에서 로그인 없이 개인정보와 기밀 데이터에 접근할 수 있었음 Supabase 연동 사이트 중 초기 로딩 때 데이터베이스 레코드를 전송한 24,664개를 추가 조사해, 7,403개 사이트에서 이메일 주소가 포함된 레코드를 확인함 노출 사례에는 8만 개 이상의 프로필과 20만 건 이상의 채팅 메시지 , 여권 번호 등 신분증 정보가 담긴 1,000건 이상의 레코드가 포함됨 이메일 주소가 발견된 비율인 30%는 확정된 데이터 유출률이 아님 . 공개 연락처나 테스트 데이터일 수 있고, 조사 표본도 전체 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.307027+00:00"
+  },
+  {
+    "title": "KDE 다큐멘터리: 자유 소프트웨어의 언더독들 이야기 [영상]",
+    "url": "https://news.hada.io/topic?id=37168&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T04:40:32+09:00",
+    "excerpt": "KDE 는 사용하기 어려웠던 Linux를 누구나 쓸 수 있는 데스크톱으로 만들려는 시도에서 출발해, 소프트웨어를 통한 자유와 사용자 통제권을 추구하는 커뮤니티로 성장함 Qt 는 소규모 팀이 완성도 높은 그래픽 환경을 빠르게 만드는 기반이었지만, 초기의 독점 라이선스는 GNOME 탄생과 자유 소프트웨어 진영의 분열을 촉발함 자원봉사자들의 필요에서 시작한 응용 프로그램과 KHTML 브라우저 엔진은 KDE의 범위를 넓혔으며, KHTML은 이후 Safari와 WebKit으로 이어짐 KDE 4 는 대규모 재설계와 미완성 데스크톱 출시로 심각한 반발을 겪었지 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.307059+00:00"
+  },
+  {
+    "title": "Show HN: 오늘 밤 FAA 전국 이륙 중단 상황을 보여주는 미국 항공편 실시간 지도",
+    "url": "https://news.hada.io/topic?id=37167&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T03:32:06+09:00",
+    "excerpt": "Ground Stop Watch 는 미국 상공의 항공기 위치와 출발 현황을 실시간으로 보여주고, 타임라인으로 FAA 전국 이륙 중단과 회복 과정을 다시 살펴볼 수 있는 독립 웹페이지임 adsb.fi의 ADS-B 추적 데이터 와 FAA 공항 지연 정보를 활용하며, 공항별 출발과 항공사별 운항 규모를 일주일 전 같은 시간대와 비교함 추적 데이터상 상공의 상업용 항공편은 최저점에서 전주 대비 96% 감소 했고, 출발 편수가 평소의 4분의 1 미만인 상태가 5시간 34분 이어짐 FAA는 2026년 11월 13일 오후 3시 54분 전국 이륙 중단을 명령하고 오후 8시 15분 해제 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.307094+00:00"
+  },
+  {
+    "title": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
+    "url": "https://news.hada.io/topic?id=37166&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T02:33:13+09:00",
+    "excerpt": "스마트 안경과 녹음형 웨어러블은 사용자 한 사람의 선택 으로 주변인의 대화와 행동까지 기록하며, 프라이버시 문제를 물리적 일상으로 더 깊이 확장함 기업의 암호화, 접근 제한, 개인정보 설정 같은 기술적 보호 약속 은 기기 사용자에게 집중되며, 기록 대상이 된 비사용자가 실질적으로 거부할 방법은 제공하지 못함 원본 음성을 저장하지 않더라도 대화 요약과 전사 기록 은 남을 수 있으며, 법 집행기관의 데이터 접근 문제도 피할 수 없음 눈에 띄는 녹음이나 필기와 달리 수동 조작 없는 상시 감시 는 지속적인 기록을 장려하고 사용 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.307126+00:00"
+  },
+  {
+    "title": "누구나 이해할 수 있는 ML 모듈",
+    "url": "https://news.hada.io/topic?id=37165&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-15T02:02:51+09:00",
+    "excerpt": "ML 모듈 은 함수와 타입을 묶는 데 그치지 않고, 모듈 자체에 시그니처(signature) 라는 타입을 부여해 공개 인터페이스와 구현을 분리함 하나의 구현에 서로 다른 시그니처 를 적용하면 내부 함수를 숨기거나, 일부 기능만 제공하는 모듈로 재사용할 수 있음 추상 타입 은 내부 자료 표현까지 감춰 외부 코드가 불변 조건을 깨뜨리지 못하게 함 매개변수화된 모듈 은 다른 모듈을 입력받아 타입과 연산을 함께 전달받으며, include 는 작게 나눈 모듈을 다시 조합할 수 있게 함 빌드 시스템의 캐시와 실행기를 교체하는 사례처럼 정적 모듈 연 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:22.307159+00:00"
+  },
+  {
+    "title": "L3Harris statement on the Nov. 13 ground stop",
+    "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 22:51:44 +0000",
+    "excerpt": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop Comments URL: https://news.ycombinator.com/item?id=50501844 Points: 58 # Comments: 30",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551635+00:00"
+  },
+  {
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 22:26:30 +0000",
+    "excerpt": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 152 # Comments: 82",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551662+00:00"
+  },
+  {
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+    "excerpt": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 81 # Comments: 25",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551680+00:00"
+  },
+  {
+    "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+    "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 19:23:40 +0000",
+    "excerpt": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year Comments URL: https://news.ycombinator.com/item?id=50499945 Points: 77 # Comments: 26",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551698+00:00"
+  },
+  {
+    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+    "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 18:56:47 +0000",
+    "excerpt": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 183 # Comments: 101",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551714+00:00"
+  },
+  {
+    "title": "A family tree of software job titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 17:45:19 +0000",
+    "excerpt": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 199 # Comments: 99",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551729+00:00"
+  },
+  {
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 17:43:10 +0000",
+    "excerpt": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 630 # Comments: 263",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551745+00:00"
+  },
+  {
+    "title": "Creating a self booting ZIP archive",
+    "url": "https://goliath32.com/blog/ziphead.html",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 16:29:05 +0000",
+    "excerpt": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 49 # Comments: 7",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551759+00:00"
+  },
+  {
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 15:40:52 +0000",
+    "excerpt": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 201 # Comments: 91",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551774+00:00"
+  },
+  {
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 15:04:15 +0000",
+    "excerpt": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 171 # Comments: 8",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551789+00:00"
+  },
+  {
+    "title": "Demystifying phone unlocking tools: A technical overview",
+    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 14:44:28 +0000",
+    "excerpt": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 72 # Comments: 6",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551820+00:00"
+  },
+  {
+    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "url": "https://github.com/FURSOY/fursoy-cpu",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 14:06:34 +0000",
+    "excerpt": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 69 # Comments: 23",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551840+00:00"
+  },
+  {
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 14:05:54 +0000",
+    "excerpt": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551918+00:00"
+  },
+  {
+    "title": "Italy fines Meta $887M over Android users' data access",
+    "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+    "source": "Hacker News",
+    "published": "Sat, 14 Nov 2026 13:48:06 +0000",
+    "excerpt": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 329 # Comments: 219",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-15T01:26:23.551936+00:00"
+  },
+  {
     "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
     "url": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
