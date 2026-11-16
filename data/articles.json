@@ -1,5 +1,305 @@
 [
   {
+    "title": "주요 C 프로젝트 40개의 메모리 관리 방식 조사",
+    "url": "https://news.hada.io/topic?id=37234&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T09:02:28+09:00",
+    "excerpt": "주요 C 프로젝트 40개 중 malloc/free 방식만 사용하는 프로젝트는 8개 였으며, 다수는 영역 기반 할당, 참조 카운팅, 가비지 컬렉션 등 고수준 메모리 관리 방식을 함께 사용함 영역 기반 할당(region) 을 일부라도 사용하는 프로젝트는 15개, 주된 할당 방식으로 사용하는 프로젝트는 7개였음 가비지 컬렉션 을 주로 사용하는 프로젝트는 5개, 참조 카운팅 을 주로 사용하는 프로젝트는 3개로, C로 구현한 프로젝트에서도 다양한 자동화 수준의 메모리 관리가 쓰임 정확성으로 유명한 SQLite도 100% 수동 관리 를 사용하며, curl과 Redis 역 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149838+00:00"
+  },
+  {
+    "title": "실전파 컴퓨터 과학자를 위한 도서 목록",
+    "url": "https://news.hada.io/topic?id=37232&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T08:37:43+09:00",
+    "excerpt": "2025년판 추천 목록 으로, 코드 작성 관행을 다루는 일반적인 프로그래머 추천서 대신 언어, 운영체제, 네트워크, 알고리듬, 계산 이론을 깊이 익히는 책에 초점을 맞춤 입문 목록은 C/C++와 Rust 를 중심으로 구성됨. C/C++로 직접 개발할 필요는 대체로 없지만, 주요 운영체제의 네이티브 API를 표현하는 공통 언어라는 점을 중시함 본격적인 실전 목록은 시스템 프로그래밍과 컴퓨터 과학의 기초 를 폭넓게 다루며, 일부 도서는 특정 권이나 판본을 권장함 고급 목록은 계산 복잡도, 타입, 함수형 자료구조, 람다 계산 으로 이어지며, 조합 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149880+00:00"
+  },
+  {
+    "title": "‘새대가리’는 잘못된 표현이다. 까마귀는 인간보다 빠르게 결정을 내린다",
+    "url": "https://news.hada.io/topic?id=37231&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T08:34:43+09:00",
+    "excerpt": "송장까마귀 두 마리를 대상으로 한 연구에서 시각적 단서를 처리하고 반응하는 속도 가 인간과 원숭이의 두 배에 달함 Science에 발표된 연구 는 조류의 의사결정에 관여하는 신경 처리 속도를 처음으로 정량화함 조류는 작고 겉보기에 단순한 뇌 때문에 오랫동안 인지 능력을 과소평가받았지만, 지난 20년간 뇌 구조에 대한 이해 가 달라짐 최근 연구에서 비둘기 는 암세포와 비암세포, 수치, 단어와 비단어를 구별할 수 있었음 까마귀과 조류 는 자기 인식, 추상적 문제 해결, 미래 계획뿐 아니라 다른 새의 생각을 이해하고 그에 맞춰 행동 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149908+00:00"
+  },
+  {
+    "title": "엘니뇨의 작동 원리를 짧게 설명하는 영상",
+    "url": "https://news.hada.io/topic?id=37229&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T07:43:42+09:00",
+    "excerpt": "엘니뇨 는 태평양 무역풍이 약해지고 따뜻한 표층수가 동쪽으로 이동하면서, 대류와 폭풍이 발생하는 위치까지 바뀌는 현상임 이동한 따뜻한 공기는 제트기류 를 더 동쪽과 남쪽으로 옮겨, 미국 남부에는 더 습한 겨울을, 북부 여러 지역에는 비교적 온화한 겨울을 가져올 가능성을 높임 캘리포니아와 남서부에서는 해수면 상승에 따른 해안 침수 , 잦은 폭풍에 따른 광범위한 계기비행 기상조건과 산악 지형이 가려지는 상황에 주의해야 함 남부 평원과 플로리다 등에서는 낮은 운고와 시정 저하 , 전선에 동반된 강풍과 오래 지속되는 비가 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149934+00:00"
+  },
+  {
+    "title": "“Duffy는 거짓말했다”: 항공 관제사들, 교통부 장관의 이륙 중단 설명 반박",
+    "url": "https://news.hada.io/topic?id=37228&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T07:40:41+09:00",
+    "excerpt": "미국 전역의 항공기 이륙 중단 으로 약 150만 명이 영향을 받은 가운데, 항공 관제사들이 Sean Duffy 교통부 장관의 장애 원인 설명에 의문을 제기함 기자가 취재한 관제사 60명 중 누구도 장관의 설명을 납득하지 않았으며, 장비 변경 작업은 혼잡한 금요일 오후가 아니라 주중 심야에 진행한다고 반박함 Duffy는 처음에는 스위치와 라우터 과부하 를 원인으로 들었고, 다음 날에는 L3Harris Technologies의 구리선 교체 작업 중 과부하가 발생했다고 밝힘 8억 7,500만 달러 규모의 AI 시스템 SMART 와의 연관성은 부인했으나, 시스템이 연 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149961+00:00"
+  },
+  {
+    "title": "이탈리아, 사진 개인정보 침해로 Meta에 8억 500만 유로 과징금 부과",
+    "url": "https://news.hada.io/topic?id=37227&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T07:37:41+09:00",
+    "excerpt": "이탈리아 개인정보 보호 당국이 Android용 Facebook 앱에서 구체적인 동의와 적절한 안내 없이 사진, 동영상, 관련 메타데이터에 접근한 Meta에 8억 500만 유로 과징금 을 부과함 문제가 된 갤러리 추천 기능 은 휴대전화의 사진과 동영상을 게시물 소재로 추천하며, 앱 전체에 적용되는 단일 권한 요청으로는 이용자가 이 기능까지 허용한다는 사실을 알기 어려웠음 Meta는 해당 기능에 대해 별도의 구체적인 동의 를 받아야 하며, 사진 갤러리에 접근한다는 사실과 기능을 끄는 방법을 명확히 안내해야 함 당국은 이탈리아 Android 이용자 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.149987+00:00"
+  },
+  {
+    "title": "휴대폰 포렌식 도구는 잠긴 기기에서 어떻게 데이터를 꺼내나",
+    "url": "https://news.hada.io/topic?id=37225&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T06:44:30+09:00",
+    "excerpt": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화 에 있음. 기기별 공격 코드를 확보하고 안정화해 비전문가도 사용할 수 있는 자동화 작업 흐름으로 묶음 Android에서 재부팅 후 최초 잠금 해제 전(BFU) 에는 사용자 인증이 필요한 저장소가 잠겨 있음. 최초 잠금 해제 후(AFU) 에는 이 저장소의 복호화 키가 메모리에 남아, 화면을 다시 잠가도 최초 잠금 해제 전 상태로 돌아가지 않음 BFU 공격은 부팅 체인과 신뢰 실행 환경을 침해한 뒤 자격 증명을 무차별 대입하는 방식으로 진행할 수 있음. 별도 보안 요소(Secure Element) 가 올바르게 구현돼 있으면 하드웨어의 인증 시도 제한이 추가 방어선으로 남음 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150015+00:00"
+  },
+  {
+    "title": "Emacs는 나의 브라우저",
+    "url": "https://news.hada.io/topic?id=37224&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T06:41:30+09:00",
+    "excerpt": "Emacs 내장 브라우저 EWW 를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추천 콘텐츠와 눈길을 끄는 요소 때문에 쉽게 산만해졌지만, 텍스트 중심 탐색 으로 전환한 뒤 정보 검색과 문서 읽기, 생산 활동에 더 집중할 수 있었음 EWW 는 이미지와 GIF를 지원하며, 읽기 모드와 북마크, URL 복사 등을 Emacs 안에서 사용할 수 있음 PDF는 Emacs, 동영상은 mpv , Gopher/Gemini 링크는 Elpher 로 연결하고, EWW에서 잘 작동하지 않는 페이지는 일반 브라우저로 넘기는 구성을 사용함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150044+00:00"
+  },
+  {
+    "title": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+    "url": "https://news.hada.io/topic?id=37222&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T06:38:30+09:00",
+    "excerpt": "Phantasialand 에서 Microsoft 장애로 수영장 염소 과다 경고 이메일을 받지 못했고, 호텔 투숙객 15명이 다침 수영장의 자동 투입 시스템 결함 으로 염소가 과다 주입됐으며, 사우나 구역 안전 관리 시스템은 이미 이메일 경고를 보낸 상태였음 Outlook을 포함한 Microsoft 서비스 장애 로 이메일이 도착하지 않아, 시설 측이 경고를 인지하지 못함 피해자들은 수영장 이용 후 호흡기 자극 등 건강 이상을 호소했으며, 4명이 병원으로 이송됨 현장 검사에서 과도한 염소 농도 를 확인해 수영장 물을 교체했으며, 일시 폐쇄했던 수영장은 이후 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150070+00:00"
+  },
+  {
+    "title": "DGX Station 2대에서 vLLM으로 GLM-5.3 로컬 서빙하기",
+    "url": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T05:46:06+09:00",
+    "excerpt": "GLM-5.3 NVFP4 의 약 464GB 체크포인트를 DGX Station 2대의 GPU에 나눠 올리고, CPU 가중치 오프로딩 없이 하나의 OpenAI 호환 API로 서빙함 텐서 병렬화(TP=2) 로 두 GB300 GPU가 가중치와 연산을 분담하며, 모든 요청의 토큰 생성 과정에서 ConnectX-8 RDMA 연결로 부분 결과를 교환함 다중 토큰 예측(MTP) 으로 단계당 토큰 4개를 미리 생성해 검증하고, FP8 KV 캐시와 프리픽스 캐싱으로 캐시 메모리와 반복 프롬프트 처리 부담을 줄임 SPEED-Bench Coding 에서 동시 요청 16개 일 때 전체 처리량은 초당 607.8토큰 으로 가장 높았고, 요 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150098+00:00"
+  },
+  {
+    "title": "Turbo Pascal보다 크기가 큰 것들 (2011)",
+    "url": "https://news.hada.io/topic?id=37219&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T05:43:06+09:00",
+    "excerpt": "Turbo Pascal 3.02 는 컴파일러와 IDE를 모두 포함한 실행 파일 크기가 39,731바이트 로, 2011년의 여러 웹 리소스와 개발 도구 파일보다 작았음 1986년 9월 출시된 MS-DOS용 Turbo Pascal 3 는 상업적 사용에 실용적인 확장을 갖춘 완전한 Pascal 컴파일러와 편집기를 긴밀하게 통합했음 프로젝트 빌드 속도는 Microsoft 컴파일러보다 몇 자릿수 빠를 정도 였음 2011년 10월 30일 기준, 최소화한 jQuery 1.6 과 Yahoo 홈페이지, Apple의 흰색 iPhone 4S 이미지도 Turbo Pascal 실행 파일보다 컸음 OS X Lion의 touch 명령 과 SDK 헤더 파일, V …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150128+00:00"
+  },
+  {
+    "title": "현대 LLM의 위치 임베딩 이해하기",
+    "url": "https://news.hada.io/topic?id=37218&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T05:40:06+09:00",
+    "excerpt": "LLM의 위치 정보 는 같은 토큰이라도 문장 안의 순서와 거리에 따라 다르게 처리하도록 도움을 줌. 인과 마스크도 암묵적인 순서 정보를 주지만, 토큰 간 거리를 직접 알려주지는 않음 GPT-2는 학습한 위치 벡터를 입력 임베딩에 더하고, 원래 Transformer는 고정된 사인/코사인 벡터를 더함. 두 방식 모두 토큰의 절대 위치 를 표현함 RoPE 는 어텐션 내부에서 쿼리와 키를 회전시켜 상대 위치를 내적에 반영함. 회전 전 벡터가 고정돼 있다면 두 토큰을 같은 거리만큼 이동해도 내적이 유지됨 최근 아키텍처는 일부 차원만 회전하는 부분 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150153+00:00"
+  },
+  {
+    "title": "세계 각국 보안기관의 광고 기반 감시 시스템 사용 확인",
+    "url": "https://news.hada.io/topic?id=37217&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T04:47:00+09:00",
+    "excerpt": "Bloomberg 조사에서 Penlink의 광고 기반 감시 시스템 Webloc 을 도입한 여러 국가의 보안기관이 추가로 확인됨 이번 조사는 Citizen Lab의 기존 연구 를 바탕으로 추가 고객을 확인했으며, 앞서 파악한 잠재 고객 정보와도 부합함 Webloc 은 군과 정보기관에서 연방 법 집행기관을 거쳐 주와 지역 경찰로까지 확산되는 강력한 대규모 감시 도구임 유럽과 영국 에서는 이러한 시스템 사용의 적법성을 둘러싸고 큰 논란이 있음 침해적이고 과도한 광고 기반 대규모 감시 는 어디서나 문제가 되지만, 조사에서 확인된 권위주의 국가에서의 사용은 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150178+00:00"
+  },
+  {
+    "title": "Claude라는 망상",
+    "url": "https://news.hada.io/topic?id=37216&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T04:44:00+09:00",
+    "excerpt": "기술 업계에서 코딩 실력과 사업 성공을 모든 분야에서 뛰어나다는 증거 로 받아들이는 과신은, AI가 인류를 구원하거나 위협할 것이라는 극단적인 전망으로 이어질 수 있음 빌 게이츠는 Claude의 코딩 실력이 자신과 비슷해졌다고 돌아봤으며, 이어 긴 코딩 작업과 코드 결함 탐지에서 AI가 초인적 수준에 이르렀다 고 평가함 프로그래밍을 특별한 정체성으로 삼던 개발자에게 자신처럼 코드를 만들고 칭찬까지 해주는 AI는 경외와 두려움 을 유발하며, 이를 초지능으로 받아들이게 할 수 있음 자율 에이전트 가 독자적으로 행동한다는 서사 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150213+00:00"
+  },
+  {
+    "title": "Lean으로 미국 세법 형식화하기",
+    "url": "https://news.hada.io/topic?id=37215&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-16T04:40:59+09:00",
+    "excerpt": "Lean 증명 검사기와 AI 로 미국 세법의 참조 오류를 검사하고, 2025년 가구 단위 연방소득세를 실행 가능한 모델로 만들어 세금 계산 오류와 허점을 탐색함 공식 법전에서 입법 문구 오류 138건 을 찾아 각각 Lean 증명서를 만들었으며, 법률별 Git 이력으로 오류를 도입한 법률까지 추적할 수 있음 가상 가구 5,000곳을 기존 세금 소프트웨어 3종과 비교한 결과, PolicyEngine-US와 4,993곳에서 모든 수치가 일치 했고 나머지는 EITC 표와 공식의 차이로 최대 11달러 차이가 났음 세금 계획 지식 없이 탐색해 기존 절세 전략을 재발견했고, …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:46.150237+00:00"
+  },
+  {
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "source": "Hacker News",
+    "published": "Mon, 16 Nov 2026 00:21:54 +0000",
+    "excerpt": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 3 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750663+00:00"
+  },
+  {
+    "title": "What's Next for Nvidia?",
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 23:55:55 +0000",
+    "excerpt": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 34 # Comments: 19",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750684+00:00"
+  },
+  {
+    "title": "Mini.nvim Is Now on Tangled",
+    "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 23:55:41 +0000",
+    "excerpt": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 26 # Comments: 7",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750696+00:00"
+  },
+  {
+    "title": "Jensen Huang might return to Nvidia as CEO",
+    "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 23:24:53 +0000",
+    "excerpt": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 124 # Comments: 105",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750709+00:00"
+  },
+  {
+    "title": "Preserving 30 Years of Salon Journalism",
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 23:00:11 +0000",
+    "excerpt": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 64 # Comments: 14",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750720+00:00"
+  },
+  {
+    "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+    "url": "https://lastcomplication.com/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 22:48:52 +0000",
+    "excerpt": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 40 # Comments: 5",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750731+00:00"
+  },
+  {
+    "title": "Old Bitly Links Are Being Hijacked",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 22:11:43 +0000",
+    "excerpt": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 153 # Comments: 80",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750742+00:00"
+  },
+  {
+    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 20:37:28 +0000",
+    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 109 # Comments: 56",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750754+00:00"
+  },
+  {
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 20:20:05 +0000",
+    "excerpt": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 86 # Comments: 11",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750764+00:00"
+  },
+  {
+    "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+    "url": "https://news.ycombinator.com/item?id=50510042",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 19:49:28 +0000",
+    "excerpt": "We're a small business that sells pre-booked appointments with homeowners to local contractors, billed per appointment that actually happens. Our first client agreed to this on a recorded call and saved his card through a $1 Stripe payment link, which we planned to use for billing later. That $1 payment went through. A few weeks later we invoiced him $1,500 for 3 completed appointments and charged the saved card. Stripe blocked the payment. Two days after that the account was closed with this wo",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750835+00:00"
+  },
+  {
+    "title": "Handwriting, as a Font",
+    "url": "https://ductus.sorenblank.com",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 19:42:13 +0000",
+    "excerpt": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 122 # Comments: 30",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750846+00:00"
+  },
+  {
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 19:26:22 +0000",
+    "excerpt": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 156 # Comments: 37",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750857+00:00"
+  },
+  {
+    "title": "Eclipse Mosquitto – An open source MQTT broker",
+    "url": "https://github.com/eclipse-mosquitto/mosquitto",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 18:36:40 +0000",
+    "excerpt": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 62 # Comments: 26",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750871+00:00"
+  },
+  {
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 18:36:10 +0000",
+    "excerpt": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 389 # Comments: 182",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750883+00:00"
+  },
+  {
+    "title": "A short explainer on how El Niño works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "source": "Hacker News",
+    "published": "Sun, 15 Nov 2026 18:23:21 +0000",
+    "excerpt": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 174 # Comments: 74",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-16T01:28:48.750895+00:00"
+  },
+  {
     "title": "OpenAI, 범용 모델이 로봇을 제어하기 시작하면서 로보틱스 팀 해체",
     "url": "https://news.hada.io/topic?id=37180&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
