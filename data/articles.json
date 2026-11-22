@@ -1,5 +1,305 @@
 [
   {
+    "title": "Astra 6.2와 Sol 6.2, SimpleBench에서 부진",
+    "url": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T10:32:10+09:00",
+    "excerpt": "일상적 추론을 평가하는 SimpleBench에서 GPT-6.2 Astra는 77.3% , GPT-6.2 Sol은 69.9% 를 기록해 각각 17위와 30위에 머무름 SimpleBench 는 고등학교 수준의 비전문 지식으로 풀 수 있는 객관식 텍스트 벤치마크로, 200개가 넘는 문항을 통해 시공간 추론, 사회적 지능, 함정 질문 대응 능력을 평가함 인간 기준 점수는 83.7% 로 두 모델보다 높지만, 이 기준은 참가자 9명 의 소규모 표본에 기반함 GPT-6.2 Astra Pro 도 79.2%로 인간 기준에 미치지 못했으며, 표에 있는 GPT-6 Astra Pro의 86.5%보다 낮음 선두인 Claude Fable 5.2는 94 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624391+00:00"
+  },
+  {
+    "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+    "url": "https://news.hada.io/topic?id=37600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T09:30:02+09:00",
+    "excerpt": "AI 에이전트가 UI의 기본 동작을 조합해 맞춤형 컴포넌트를 만드는 라이브러리 팝업 열기, 항목 선택, 입력한 글자로 항목 찾기 를 재사용해 Select부터 자동완성, 콤보박스, 사용자 선택기까지 제작 50개 이상의 동작 제공. 키보드 탐색, 포커스 관리, 드래그 앤 드롭, 크기 조절, 화면 확대와 축소 등을 처리 직접 구현하기 까다로운 키보드 조작과 스크린 리더 지원을 재사용 하고, 완성한 컴포넌트의 접근성을 검사하는 테스트 도구도 제공 React, Vue, Svelte, Solid, Web Components 지원 . 같은 동작 정의를 각 프레임워크에서 렌더링 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624440+00:00"
+  },
+  {
+    "title": "췌장암 치료 알약, ‘수십 년 만의 최대 돌파구’로 평가받음",
+    "url": "https://news.hada.io/topic?id=37598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T06:31:35+09:00",
+    "excerpt": "경구 치료제 daraxonrasib 임상시험 에서 전이성 췌장암 환자 61명 중 약 8%는 CT로 종양이 검출되지 않았으며, 약 90%에서 종양이 줄거나 더 자라지 않음 환자의 60% 이상에서 종양이 축소되거나 사라졌고 , 치료 시작 1년 후 생존율은 76.6%로 항암화학요법만 받은 환자의 통상적인 40~45%보다 높았음 대부분의 췌장암에서 발견되는 특정 돌연변이에 작용해 암세포의 성장을 촉진하는 RAS 단백질을 억제하는 표적 치료제 로, 그동안 치료가 어려웠던 췌장암에서 새로운 치료 가능성을 보여줌 추적 관찰 기간 중앙값은 약 18개월 . 아직 완치 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624475+00:00"
+  },
+  {
+    "title": "FBI, 범죄정보 데이터베이스 해킹 의심 사건 조사 중인 것으로 알려져",
+    "url": "https://news.hada.io/topic?id=37597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T05:37:21+09:00",
+    "excerpt": "사안을 보고받은 두 명을 인용한 미국 언론 보도에 따르면, FBI가 범죄정보 데이터베이스 침해 의심 사건 을 조사 중임 대상인 국가범죄정보센터(NCIC) 데이터베이스 는 연방 및 지역 법 집행기관이 영장과 신원조회 관련 정보를 공유하는 데 사용함 FBI는 BBC의 논평 요청에 즉각 답하지 않았으며 , Donald Trump 대통령은 토요일 인터뷰에서 해킹 소식을 방금 들었다고 밝힘 지난 9월에도 ShinyHunters 가 FBI 전체 직원 약 3만 8,000명 의 민감한 정보를 훔쳤다고 주장해 FBI가 침해 의심 사건 조사에 나선 바 있음 별도로 NBC는 미국 농무 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624513+00:00"
+  },
+  {
+    "title": "5.4 GB 메모리의 Inkling-2-Mini",
+    "url": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T05:34:21+09:00",
+    "excerpt": "LookAtMyQuant 가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임 5.38 GB 모델 은 GSM8K 200문제에서 67.0%, HumanEval 164문제에서 36.6%를 기록함. 비교 대상인 Unsloth의 9.14 GB UD-Q2_K_XL 보다 파일이 41% 작으면서 두 평가 모두 점수가 높음 압축은 모델 각 부분의 출력 손상도 를 측정해 크기 예산 안에서 코드를 배분하는 방식임. Inkling에는 트렐리스 코드와 근접 미세조정( SQYFR ) 을 적용함 Apple Silicon 전용 Metal 커 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624550+00:00"
+  },
+  {
+    "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
+    "url": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T05:02:02+09:00",
+    "excerpt": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨 . 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함 Google 내부 보안팀은 Binder를 운영체제에서 코드 줄 수 대비 CVE가 가장 많은 구성 요소 로 평가함. C 구현에 새 기능을 추가할 때마다 취약점이 계속 생겨, 새 기능은 Rust 구현에만 추가하도록 정책을 바꿈 성능 측면에서 전환의 관건은 처리량보다 꼬리 지연 시간 이었음. 화면 렌더링 경로에 Binder가 들어가므로, 잠금 경합으로 드물게 발생하는 20밀리초 지연도 사용자가 체감할 수 있음 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624584+00:00"
+  },
+  {
+    "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
+    "url": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T04:31:25+09:00",
+    "excerpt": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성의 입체 영상 을 제작함 Hera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스럽게 보이도록 이미지를 정렬하는 작업 이 핵심임 입체 영상에서는 바위가 흩어진 나머지 표면과 대비되는 Didymos 적도 능선의 뚜렷하고 매끄러운 형태 를 확인할 수 있음 적청 3D 안경 , 전용 뷰어 또는 맨눈으로 보는 방식에 맞춰 세 가지 입체 영상 버전을 제공함 Hera 는 NASA의 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624623+00:00"
+  },
+  {
+    "title": "GIMP에 UI 테스트 도입",
+    "url": "https://news.hada.io/topic?id=37592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T03:41:45+09:00",
+    "excerpt": "GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 GUI 테스트 플랫폼 을 도입함. 기여자의 변경 사항을 병합할 때마다 자동 실행해 인터페이스 문제를 조기에 찾음 기존 단위 테스트는 실제 창을 열지 않았고, 코어 코드에 직접 개입하는 GUI 테스트도 탐지하지 못하는 버그 유형이 있었음. 새 테스트는 실제 인터페이스 를 통해 프로그램 전체를 확인함 현재 13개 테스트 로 창 표시, 이미지 생성과 내보내기, 색상과 레이어 조작, 실행 취소와 다시 실행 등 기본 동작을 검증함 화면 픽셀 대신 접근성 정보 로 UI 요소를 찾으며, 숨 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624655+00:00"
+  },
+  {
+    "title": "그럼에도 지구는 돈다",
+    "url": "https://news.hada.io/topic?id=37591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T03:38:45+09:00",
+    "excerpt": "리만 가설 증명 소식은 축하를 기대했던 순간에 오히려 상실감을 안겨줌 . 증명이 존재한다는 사실은 경이롭지만, 인간이 직접 탐구해 이룬 성취와는 다르게 느껴짐 리만 가설 을 전제로 참임이 증명된 수많은 추측이 있어, 그 증명은 수학의 광대한 영역을 열어줄 수 있음 뮤지컬 Galileo 에서 떠올린 과학의 혁명성은 자연에 올바르게 질문해 진실을 알아낼 수 있다는 데 있음 기계가 찾아낸 답에는 스스로 문제를 풀다가 포기하고 책 뒤의 정답을 확인한 듯한 씁쓸함 이 남음. 기대했던 인간적 성취의 절정과는 거리가 있음 인간이 직접 발 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624687+00:00"
+  },
+  {
+    "title": "GnuPG의 원격 코드 실행(RCE) 취약점",
+    "url": "https://news.hada.io/topic?id=37590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T03:35:45+09:00",
+    "excerpt": "GPGME 2.3.1 이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 CVE-2026-129975 를 수정함 매우 긴 사용자 ID가 포함된 키로 애플리케이션의 데이터를 유출 할 수 있으며, 원격 코드 실행 가능성도 배제할 수 없어 즉시 업데이트를 권고함 버퍼 재할당 후 오류 등으로 함수가 일찍 반환하면 컨텍스트에 해제된 메모리의 포인터 가 남고, 이후 컨텍스트 정리 과정에서 같은 메모리를 다시 해제함 GPGME 2.3.0 미만 을 공유 라이브러리, DLL 또는 정적 링크로 사용하는 모든 소프트웨어가 영향을 받으며, 2.3.0은 공개 배포된 적 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624737+00:00"
+  },
+  {
+    "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
+    "url": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T02:56:31+09:00",
+    "excerpt": "알고리즘을 NS 차트 (Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개 NS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면은 훨씬 적게 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음 저장 형식 .ns.svg 는 NS 차트의 다이어그램 구조를 메타에 포함 하고있는 .svg 파일 README 등 Markdown 문서에 삽입하면 그림으로 보임 AriadenNSD 편집기에서 열면 다이어그램 편집 가능 Claude 스킬 제공: \"이 함수 NS 차트로 그려 줘\"라고 하면 .svg 파일과 AriadenNSD에서 바로 편집 가 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624775+00:00"
+  },
+  {
+    "title": "Clojure는 프로그래밍을 생각하는 방식에 영향을 준다 (2017)",
+    "url": "https://news.hada.io/topic?id=37588&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T02:32:49+09:00",
+    "excerpt": "Clojure 는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 배울 만한 언어임 Lisp 매크로 와 균일한 문법은 코드를 데이터로 다루게 하며, 고차 함수와 REPL 중심 개발은 기능을 조합하고 점진적으로 구축하는 방식을 장려함 시퀀스, 영속 자료구조, 지연 평가 를 결합해 SQL처럼 읽히는 데이터 처리 흐름을 언어의 기본 도구만으로 작성할 수 있음 프로토콜과 다중 디스패치 를 통해 상속 계층보다 인터페이스 중심으로 모델링하고, 불변 자료구 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624807+00:00"
+  },
+  {
+    "title": "Lean과 Mathlib 커뮤니티, 리만 가설 증명 검증 완료 발표",
+    "url": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T01:36:36+09:00",
+    "excerpt": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명 의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규모의 Lean 라이브러리 로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임 증명한 대상이 우리가 알고 있는 리만 가설인지도 확인 함. 전문가들이 검토한 Mathlib의 표준 명제와 Alpöge가 증명한 정리를 독립적인 두 도구로 비교해 정확히 일치함을 검증 수십 명이 코드의 정상 컴파일 과 동일한 원시 증명 내보내기 파일의 재현을 보고함 Lean 공식 커널과 여러 독립 검사기가 증명의 유효성을 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624840+00:00"
+  },
+  {
+    "title": "데릭 로: 아지드화 납 더미 폭파",
+    "url": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T01:33:36+09:00",
+    "excerpt": "데릭 로: 아지드화 납 더미 폭파",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624850+00:00"
+  },
+  {
+    "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
+    "url": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-22T00:32:49+09:00",
+    "excerpt": "2.5Gbps 대칭형 인터넷 에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함 문제는 모니터의 대역폭 부족만이 아니라 USB 허브의 응답 지연과 어댑터의 버스트 크기 가 결합한 수신 병목에 있었음 모니터를 거친 RTL8156B 어댑터는 초당 약 16만 8,000프레임 에서 수신 처리량이 정체됐으며, 이를 초과한 프레임은 Mac에 도달하기 전에 어댑터에서 버려짐 Realtek 전용 드라이버 로 다운로드가 약 1.1Gbps까지 개선됐고, 이더넷 흐름 제어를 켜면 약 2Gbps에 도 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:43.624881+00:00"
+  },
+  {
+    "title": "Sandwich Simulator",
+    "url": "https://stulle.app/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 00:07:59 +0000",
+    "excerpt": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 12 # Comments: 2",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823126+00:00"
+  },
+  {
+    "title": "International UN talks on controlling use of autonomous weapons collapse",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 23:10:21 +0000",
+    "excerpt": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 36 # Comments: 10",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823152+00:00"
+  },
+  {
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 22:09:58 +0000",
+    "excerpt": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 54 # Comments: 5",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823172+00:00"
+  },
+  {
+    "title": "Advice for the next 100 Rust GUIs",
+    "url": "https://linebender.org/blog/next-100-guis/",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 21:17:53 +0000",
+    "excerpt": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 88 # Comments: 8",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823188+00:00"
+  },
+  {
+    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+    "url": "https://tasklet.ai/careers",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 21:11:08 +0000",
+    "excerpt": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823203+00:00"
+  },
+  {
+    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 21:06:14 +0000",
+    "excerpt": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 28 # Comments: 11",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823218+00:00"
+  },
+  {
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 20:47:41 +0000",
+    "excerpt": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 31 # Comments: 5",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823234+00:00"
+  },
+  {
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 18:29:29 +0000",
+    "excerpt": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 78 # Comments: 30",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823247+00:00"
+  },
+  {
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 18:02:19 +0000",
+    "excerpt": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 357 # Comments: 91",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823261+00:00"
+  },
+  {
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 17:08:04 +0000",
+    "excerpt": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 119 # Comments: 20",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823275+00:00"
+  },
+  {
+    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+    "url": "https://math.mit.edu/~drew/grh/",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 15:54:34 +0000",
+    "excerpt": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 95 # Comments: 36",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823289+00:00"
+  },
+  {
+    "title": "Show HN: Zero C# – C# without a runtime or GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 15:39:09 +0000",
+    "excerpt": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 128 # Comments: 97",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823306+00:00"
+  },
+  {
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 14:36:45 +0000",
+    "excerpt": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 832 # Comments: 681",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823321+00:00"
+  },
+  {
+    "title": "Detonating a pile of lead azide",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+    "excerpt": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 523 # Comments: 346",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823335+00:00"
+  },
+  {
+    "title": "My monitor was cutting my download speed by 75%",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "source": "Hacker News",
+    "published": "Sat, 21 Nov 2026 10:36:32 +0000",
+    "excerpt": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 487 # Comments: 232",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-22T01:47:44.823349+00:00"
+  },
+  {
     "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
     "url": "https://news.hada.io/topic?id=37557&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
@@ -2698,305 +2998,5 @@
     "summary": "",
     "keywords": [],
     "collected_at": "2026-11-12T02:36:27.580215+00:00"
-  },
-  {
-    "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
-    "url": "https://news.hada.io/topic?id=37025&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T10:37:18+09:00",
-    "excerpt": "Yogurt 는 비공개 AI 회의 노트를 위한 무료 오픈소스 앱임 회의에 봇을 추가하지 않고 통화를 녹음함 회의 요약 화면에서 계획과 담당자별 다음 단계 , 개인 알림을 확인할 수 있음 Mac, Windows, Linux 용 다운로드를 제공함 MIT 라이선스 로 공개되며, 로컬 빌드와 실행을 위한 문서를 제공함 봇 없이 녹음하는 AI 회의 노트 Yogurt 는 프라이버시를 내세우는 무료 오픈소스 AI 회의 노트 앱임 통화를 녹음할 때 회의 봇을 추가하지 않음 공개된 회의 요약 화면에는 출시 계획 회의의 계획, 담당자별 다음 단계 , 개인 알림이 표시됨 지원 환 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580262+00:00"
-  },
-  {
-    "title": "젠슨 황, 직속 보고 임원과도 혼외 관계를 맺었다는 증언 나와",
-    "url": "https://news.hada.io/topic?id=37024&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T10:34:18+09:00",
-    "excerpt": "Nvidia CEO Jensen Huang이 자신에게 직접 보고하는 임원 Kimberly Powell과 혼외 관계를 맺었다고 전직 직원 5명이 증언함 Powell은 Nvidia의 헬스케어 부문 부사장으로, 회사 행동강령은 개인적 관계를 포함해 이해충돌을 일으킬 수 있는 상황을 피하도록 규정하고 있음 지난 3월 Nvidia GTC 행사 기간 중 두 사람이 산호세의 한 호텔에서 애정 표현을 하는 모습이 목격됐으며, 이를 촬영한 목격자에게 Huang의 경호팀이 비밀유지계약(NDA) 체결을 제안했다는 증언이 나옴 Huang은 앞서 미국 정보당국이 중국 정보기관의 협력자로 판단 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580289+00:00"
-  },
-  {
-    "title": "Show GN: OpenPhoneUse – 화면을 보고 직접 탭하는 모바일용 Computer Use",
-    "url": "https://news.hada.io/topic?id=37020&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T09:51:56+09:00",
-    "excerpt": "Computer Use가 PC 화면을 보고 마우스와 키보드를 조작하듯, 안드로이드 폰 화면을 보고 직접 조작하는 AI 에이전트입니다. 할 일을 말하면 AI가 화면을 읽고 탭, 입력, 스크롤하며 여러 앱을 오가면서 처리합니다. 기존 폰 에이전트는 대부분 PC에 연결해 ADB로 조작해야 해서, 폰 안에서 단독으로 동작하도록 만들었습니다. 주요 특징 PC, ADB, 루트, Shizuku 없이 접근성 서비스만으로 동작 (Android 11+) 접근성 트리 + 스크린샷을 함께 인식해 아이콘 버튼, 지도 화면도 처리 ChatGPT 계정 로그인 또는 OpenAI / Claude / Gemini …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580317+00:00"
-  },
-  {
-    "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
-    "url": "https://news.hada.io/topic?id=37017&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T09:30:02+09:00",
-    "excerpt": "배우고 싶은 주제를 적거나 자료를 올리면 슬라이드, 퀴즈, 조작해 볼 수 있는 시뮬레이션, 프로젝트 기반 학습(PBL) 을 포함한 수업을 자동 생성 AI 교사는 음성으로 설명하고 칠판에 수식이나 그림을 그려 줌 . 수업 중 슬라이드나 그림에서 이해가 안 되는 부분을 바로 질문할 수 있음 AI 동급생과 토론 할 수 있음. 서로 다른 역할을 맡은 에이전트들이 의견을 주고받고, 학습자도 중간에 참여할 수 있음 퀴즈는 객관식과 단답형을 지원하며 AI가 답을 채점하고 피드백 을 줌. 프로젝트 학습에서는 AI 튜터와 단계별로 결과물을 만들어 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580345+00:00"
-  },
-  {
-    "title": "알고 있는 &quot;No AI&quot; 앱, 기업, 자료에는 어떤 것들이 있나요?",
-    "url": "https://news.hada.io/topic?id=37016&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T09:09:05+09:00",
-    "excerpt": "AI를 명시적으로 사용하지 않는 앱, 기업, 자료를 모은 유용한 목록을 찾고 있으며, 공개적으로 AI 반대를 표방할 필요는 없음 AI의 장단점이나 가치, 찬반 토론보다는 이 입장을 지지하는 링크나 커뮤니티 를 찾는 데 관심이 있음 관련 자료의 예로 Rebel Tech Alliance 를 들고 있음 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580364+00:00"
-  },
-  {
-    "title": "실제로 셀프 호스팅을 안전하게 하려면 어떻게 해야 하나요?",
-    "url": "https://news.hada.io/topic?id=37015&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T09:06:05+09:00",
-    "excerpt": "셀프 호스팅 입문자로서 Raspberry Pi 에 정적 웹사이트를 호스팅하고, 향후 다른 기능도 추가해 보려 함 DDG와 Google로 먼저 검색했지만, 찾은 자료 대부분이 검색 최적화에 치중한 저품질 콘텐츠나 서비스 홍보여서 유용한 시작 지침을 찾는 데 어려움이 있었음 보안을 위해 Cloudflare Tunnels 등을 추천받았으나, 이런 제공업체에 의존하면 셀프 호스팅의 취지가 무색해지는 듯해 오픈 소스 도구 만으로 안전하게 운영할 수 있는지, 주의할 함정과 조언을 구함 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580387+00:00"
-  },
-  {
-    "title": "United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
-    "url": "https://news.hada.io/topic?id=37014&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T08:38:13+09:00",
-    "excerpt": "United Airlines는 미승인 제3자 AI 에이전트의 대리 예약을 금지 하기 위해 예약 및 발권 정책을 개정 중임. 자체 웹사이트와 앱뿐 아니라 여행사와 항공편 검색 서비스를 통한 간접 접근도 제한할 방침임 United는 AI 비서에 계정 정보를 넘기면 민감 정보 노출, 의도하지 않은 결제나 마일 사용 이 발생할 수 있다고 밝힘. 연방 규정 위반 가능성의 예로는 승객이 수하물에 금지 물질이 없음을 직접 확인해야 하는 체크인 을 들었음 항공사는 계정 정보 공유가 민감 정보 노출 과 의도하지 않은 구매, 계정 변경, MileagePlus 마일 사용으로 이어질 수 있다고 경고함 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580412+00:00"
-  },
-  {
-    "title": "Nvidia 이사회, 젠슨 황 CEO 해임 준비 중",
-    "url": "https://news.hada.io/topic?id=37013&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T08:35:13+09:00",
-    "excerpt": "WSJ는 Nvidia 이사회가 창업자 겸 CEO인 젠슨 황의 해임을 준비 중 이라고 보도함. 이르면 11월 11일(현지시간) 이사회를 열어 거취를 논의할 예정이라고 전했으며, 해임 결정은 아직 확인되지 않았음 젠슨 황은 11월 8일 직원들에게 보낸 서한에서 혼외 관계를 인정하고 사과함. 상대는 Nvidia의 주요 고객사인 싱가포르 Megaspeed의 임원 앨리스 황으로, WSJ에 따르면 미국 정보 당국은 그가 중국 정보기관을 위해 활동한 것으로 의심함 Nvidia 독립 이사들은 11월 10일 외부 로펌을 선임해 관련 의혹을 조사하고 있다고 밝힘 WSJ는 사안 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580436+00:00"
-  },
-  {
-    "title": "Show GN: TokenPlant - Claude Code·Codex에 쓴 토큰으로 픽셀 식물을 키우는 macOS 메뉴바 앱",
-    "url": "https://news.hada.io/topic?id=37012&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T08:30:11+09:00",
-    "excerpt": "Claude Code와 Codex에서 나온 토큰 사용량으로 픽셀 식물을 키우는 메뉴바 앱입니다. 로컬 세션 로그(~/.claude/projects, ~/.codex/sessions)를 30초마다 읽습니다. 서버도 계정도 없고 밖으로 나가는 데이터도 없습니다. 따로 누를 건 없고, 일하다 메뉴바 보면 자라 있습니다. 다 자라면 정원으로 옮겨심고 새 씨앗이 심깁니다. 차별점이라면 가격을 토큰 개수가 아니라 날짜로 쟀다는 점입니다. \"한 그루 = 30억 토큰\" 식으로 박아두면 하루 1억 쓰는 사람은 한 달이지만 500만 쓰는 사람은 1년 반이 걸립니다. 그래서 목표를 2 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580461+00:00"
-  },
-  {
-    "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
-    "url": "https://news.hada.io/topic?id=37011&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T07:33:12+09:00",
-    "excerpt": "Google이 Gemini Decision 1 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개 까지 한 요청으로 보낼 수 있음 답변을 토큰별로 생성하지 않고 한 번의 순전파 로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간 지연시간은 150~250ms 이며, 질문이 1개에서 100개로 늘어도 거의 일정하게 유지됨 예/아니요, 객관식, 순서형 평가 기준 점수 를 한 요청에 섞어 사용할 수 있음. 모든 답변에 0~1의 신뢰도가 포함돼 모호한 사례를 대체 처리 경로나 사람 검토자에게 보낼 수 있음 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580490+00:00"
-  },
-  {
-    "title": "공개 연구로 강화하는 개인정보 보호: Firefox 사용자의 핑거프린팅을 더 어렵게 만들기",
-    "url": "https://news.hada.io/topic?id=37010&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T06:47:21+09:00",
-    "excerpt": "Firefox는 웹사이트에 노출하는 브라우저와 기기의 구별 가능한 정보를 줄여, 쿠키 없이 사용자를 식별하는 핑거프린팅 추적 방어 를 강화함 약 2,500만 명의 Firefox 사용자 측정값을 분석한 결과, 소수의 브라우저 기능만 보호해도 널리 쓰이는 핑거프린팅 기법을 상당히 약화할 수 있었음 화면 해상도 API 에서 작업 표시줄이나 독의 크기와 위치를 숨기고, 정확한 프로세서 수 대신 4 또는 8을 보고하는 방식으로 사용자 간 차이를 줄임 Firefox 145의 최신 변경을 포함한 보호 기능 은 고유한 핑거프린트를 가진 사용자 수를 줄이고 같 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580516+00:00"
-  },
-  {
-    "title": "Atuin Threads: 모든 머신의 에이전트 세션을 한곳에",
-    "url": "https://news.hada.io/topic?id=37009&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T06:44:21+09:00",
-    "excerpt": "셸 명령 기록을 검색하고 동기화하는 Atuin이 18.24부터 코딩 에이전트 세션도 검색하고 재개 할 수 있게 함 개발 서버의 Claude Code에서 시작한 작업을 노트북의 Codex에서 이어갈 수 있음 . 이전 대화 기록을 바탕으로 새 세션을 열어 작업 맥락을 이어받음 세션 수집은 사용자가 켜야 시작 함. 기록을 로컬에만 둘 수도 있고, Atuin 호스팅 서버나 자체 서버를 통해 종단 간 암호화로 동기화 할 수도 있음 MCP 를 통해 에이전트가 이전 세션을 직접 검색하고 참조할 수 있어, 과거의 시도와 의사결정 이유, 조사 결과를 후속 작업에 활용할 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580541+00:00"
-  },
-  {
-    "title": "우리는 왜 아직도 이렇게 열심히 일하는가?",
-    "url": "https://news.hada.io/topic?id=37008&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T06:41:21+09:00",
-    "excerpt": "미국의 시간당 생산량은 1973년의 2.5배 가 됐지만, 일반 노동자의 시간당 임금 구매력은 19% 늘어나는 데 그쳤고 인구 1인당 노동시간은 오히려 증가함 핵심 문제는 임금이 노동의 가격 이면서 생산물을 배분받는 생활의 입장권 이라는 데 있음. 자동화는 노동의 희소가치를 낮추지만, 임금에 생계가 달린 사람은 일을 거절하기 어려움 미국에서 1973년에 40시간 걸려 만들던 양을 이제 16시간이면 생산 할 수 있음. 하지만 당시 40시간치 임금으로 살 수 있던 물건을 사려면, 오늘날 일반 노동자도 약 34시간치 임금 이 필요함 저자의 경제 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580576+00:00"
-  },
-  {
-    "title": "우리에게는 더 많은 염소 희생 제사가 필요하다",
-    "url": "https://news.hada.io/topic?id=37007&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T05:46:45+09:00",
-    "excerpt": "사회정책이나 자선사업을 시작하기 전 필요한 것은 성공에 대한 확신보다 자신의 무지를 인정하는 절차적 겸손 임. 선의로 설계한 개입도 기대한 효과를 내지 못하는 경우가 많음 정책의 의도가 곧 결과를 보장한다고 느끼는 통제의 환상 은 효과 검증 자체를 생략하게 만들 수 있음. 교육사업부터 정부의 마약 단속까지 목표나 실험적 평가가 빠진 사례가 있음 단일 연구의 긍정적 결과 만으로 개입의 효과를 신뢰하기 어려움. 더 엄격한 평가나 다른 지역에서의 실행에서는 효과가 사라지거나 줄어들기도 함 실패를 마주했을 때 상식적인 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580600+00:00"
-  },
-  {
-    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-    "url": "https://github.com/tylertms/Stela",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 23:02:38 +0000",
-    "excerpt": "Article URL: https://github.com/tylertms/Stela Comments URL: https://news.ycombinator.com/item?id=50460154 Points: 60 # Comments: 19",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657106+00:00"
-  },
-  {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "url": "https://www.mcmillen.dev/sigbovik/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 22:34:23 +0000",
-    "excerpt": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 179 # Comments: 26",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657126+00:00"
-  },
-  {
-    "title": "Nvidia is preparing to oust Jensen Huang",
-    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 22:31:06 +0000",
-    "excerpt": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 564 # Comments: 808",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657139+00:00"
-  },
-  {
-    "title": "Lock Your GitHub Actions",
-    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 22:16:41 +0000",
-    "excerpt": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 145 # Comments: 25",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657150+00:00"
-  },
-  {
-    "title": "Jensen Huang said to have had relationship with executive who reports to him",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 22:03:58 +0000",
-    "excerpt": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html Comments URL: https://news.ycombinator.com/item?id=50459321 Points: 243 # Comments: 245",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657163+00:00"
-  },
-  {
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 21:24:35 +0000",
-    "excerpt": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 409 # Comments: 391",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657174+00:00"
-  },
-  {
-    "title": "Emacs in the Age of Magic",
-    "url": "https://commandlinesystems.com/magic.txt",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 20:26:32 +0000",
-    "excerpt": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 150 # Comments: 54",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657185+00:00"
-  },
-  {
-    "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-    "url": "https://github.com/huawei-csl/MACaQ",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 20:23:57 +0000",
-    "excerpt": "Article URL: https://github.com/huawei-csl/MACaQ Comments URL: https://news.ycombinator.com/item?id=50458166 Points: 62 # Comments: 20",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657196+00:00"
-  },
-  {
-    "title": "The Utah Teapot",
-    "url": "https://graphics.cs.utah.edu/teapot/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 19:45:10 +0000",
-    "excerpt": "https://www.youtube.com/watch?v=k-23LgrFcvs Comments URL: https://news.ycombinator.com/item?id=50457618 Points: 87 # Comments: 19",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657206+00:00"
-  },
-  {
-    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "url": "https://termsheetplease.com/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 19:12:16 +0000",
-    "excerpt": "Article URL: https://termsheetplease.com/ Comments URL: https://news.ycombinator.com/item?id=50457230 Points: 184 # Comments: 76",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657218+00:00"
-  },
-  {
-    "title": "Gemini Decisions API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 18:32:42 +0000",
-    "excerpt": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 287 # Comments: 88",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657229+00:00"
-  },
-  {
-    "title": "AWS emulator",
-    "url": "https://github.com/aws/aws-emulator",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 18:21:38 +0000",
-    "excerpt": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 692 # Comments: 219",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657240+00:00"
-  },
-  {
-    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 17:11:56 +0000",
-    "excerpt": "Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browse",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657427+00:00"
-  },
-  {
-    "title": "Faster Retrieval for Better, More Efficient RAG",
-    "url": "https://machinelearning.apple.com/research/faster-retrieval",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 16:57:45 +0000",
-    "excerpt": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 162 # Comments: 29",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657440+00:00"
-  },
-  {
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "source": "Hacker News",
-    "published": "Wed, 11 Nov 2026 16:38:44 +0000",
-    "excerpt": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 420 # Comments: 215",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:28.657453+00:00"
-  },
-  {
-    "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
-    "url": "https://news.hada.io/topic?id=36968&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-11T09:31:22+09:00",
-    "excerpt": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스타일로 학습한 이미지 모델이 타일별로 다시 그림 각 타일이 이미 그려진 이웃 타일과 이어지도록 처리해 끊김 없는 도시 지도 를 구성함 발렌시아 행정구역 전체 를 그렸지만, 참고할 3D 영상이 없는 일부 작은 우에르타 농경지 월경지는 제외함 드래그와 확대/축소, 검색으로 지도를 탐색할 수 있고 현재 화면이 주소에 반영 돼 복사한 링크로 같은 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-11T01:36:12.808226+00:00"
   }
 ]
