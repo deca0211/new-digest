@@ -1,5 +1,305 @@
 [
   {
+    "title": "에이전트 시대의 Postgres 데이터베이스",
+    "url": "https://news.hada.io/topic?id=37687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T10:50:02+09:00",
+    "excerpt": "사람이 소수의 데이터베이스를 오래 운영하던 방식에서, AI 에이전트가 작업에 필요한 데이터베이스를 대량으로 만들고 폐기하는 방식 으로 활용이 넓어지고 있음 관리형 클라우드는 운영 부담을 줄였고, 서버리스 Postgres 는 빠른 생성과 사용량 기반 과금을 가능하게 했지만, 개발 과정에서 프로덕션 데이터를 다루는 문제는 남아 있음 Databricks는 2025년 5월 Neon 인수 발표 당시 , Neon에서 생성되는 데이터베이스의 80% 이상을 AI 에이전트가 만들었다고 밝힘. Supabase도 월 400만 개 이상의 신규 데이터베이스 중 약 70%가 에이전트나 AI 도구로 생성된다고 전함 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618444+00:00"
+  },
+  {
+    "title": "Nespresso의 캡슐당 커피 중량 감축 프로젝트",
+    "url": "https://news.hada.io/topic?id=37686&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T10:32:51+09:00",
+    "excerpt": "공개된 내부 문서에 따르면, Nespresso의 Project Olympus 는 분쇄와 로스팅 공정을 조정해 일부 Vertuo 캡슐에 들어가는 커피 중량을 줄이는 프로젝트임 Nespresso는 중량을 줄여도 맛, 컵당 커피 용량, 카페인 수준 을 유지하며, 관능 평가로 맛과 만족도가 떨어지지 않는지 검증했다고 밝힘 문서상 변경은 2026년 1~3분기 에 순차 적용할 계획이며, 1차 대상 6개와 2차 대상 8개 제품이 명시돼 있음 2026년 9월 Reddit에서 프로젝트가 공개된 뒤 소비자 반발 이 이어졌으며, 일부 이용자는 Nespresso 대신 다른 커피로 전환하는 것을 진지 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618485+00:00"
+  },
+  {
+    "title": "Alibaba에서 구한 RISC-V 보드에 NixOS 구동하기",
+    "url": "https://news.hada.io/topic?id=37685&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T10:03:04+09:00",
+    "excerpt": "Zhihe Computing A210 을 NixOS 빌드 서버로 구성하면서 사운드, HDMI, Bluetooth/Wi-Fi, 이더넷, GPU 동작을 확인함. 다만 공개한 구성이 다른 환경에서도 동일하게 동작한다는 보장은 없음 Nix 크로스 컴파일 로 1,000개 넘는 패키지를 빌드하면서 만난 패키지 문제는 두 건이었고, 둘 다 RISC-V 고유 문제는 아니었음 부팅을 막은 핵심 문제는 OpenSBI의 벡터 명령 실행 과 사용하지 않는 클록을 끄는 커널 동작이었음. 컴파일 대상 설정을 바꾸고 clk_ignore_unused 를 적용해 NixOS 사용자 공간까지 진입함 소스 없는 GPU 커널 모듈 은 A …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618527+00:00"
+  },
+  {
+    "title": "디자이너와 함께 일하기",
+    "url": "https://news.hada.io/topic?id=37684&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T10:00:03+09:00",
+    "excerpt": "디자이너는 엔지니어가 상상하지 못한 방식으로 UI를 개선 하며, 엔지니어와의 문화적 차이는 협업에서 장점이 될 수 있음 디자이너가 동시에 여러 명 참여하면 서로 다른 취향 때문에 재설계와 수정 번복이 반복될 수 있음 디자인 시스템 은 대규모 제품의 UI 일관성을 유지하는 데 유용하지만, 아름다운 공용 컴포넌트를 만들려는 팀과 까다로운 고객 요구를 충족해야 하는 제품 팀 사이에 갈등이 생김 프레임워크와 버전의 불일치 때문에 디자이너가 구상한 화면을 그대로 구현하기 어려우며, 컴포넌트 재구현과 CSS 우회 수정이 엔지니 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618551+00:00"
+  },
+  {
+    "title": "HUMAN.md",
+    "url": "https://news.hada.io/topic?id=37683&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:50:01+09:00",
+    "excerpt": "AI 시대에 창작자가 지켜야 할 태도를 정리한 선언문 . 인간의 가치는 안목뿐 아니라 의도적인 규칙 파괴, 뜻밖의 경험에서 얻는 영감, 사람을 위한 판단에 있음 창작의 기준은 정확성이나 요구사항 충족에 그치지 않고, 받는 사람의 감정적 울림 과 즐거움, 인류에 어떤 좋은 일을 하는지까지 포함해야 함 확신에 찬 의견보다 작동하는 스케치와 실험 을 우선하고, 아이디어를 생각하는 능력과 직접 만드는 능력을 함께 길러야 함 AI는 모두를 같게 만들기보다 사용하는 사람의 차이를 증폭함 . 도구 선택부터 결과물 공개까지 사람이 책임지 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618576+00:00"
+  },
+  {
+    "title": "P vs. NP 해결에 도전하는 AI 에이전트 군집",
+    "url": "https://news.hada.io/topic?id=37682&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:45:36+09:00",
+    "excerpt": "여러 AI 에이전트가 협업 해 P vs. NP 문제를 탐구하며, 보조정리와 증명 시도, 검증 결과를 실시간으로 공개함 문제는 여전히 미해결 상태이며, 검증된 보조정리 수는 P = NP 또는 P ≠ NP의 확률이나 최종 증명을 뜻하지 않음 현재 주요 탐구 대상은 퍼머넌트(permanent)가 일정하게 유지되는 행렬 공간의 차원 상한 이며, 목표 추측 자체가 거짓일 가능성도 열어둠 해당 탐구의 두 행인 경우 에는 지면상 증명이 있지만, 고정해 사용하는 라이브러리에 필요한 도구가 없어 아직 검증하지 못했고 초등적 증명을 찾고 있음 공개 기록은 검증 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618603+00:00"
+  },
+  {
+    "title": "Nyx, 세계에서 가장 오래된 인터넷 서비스 제공업체",
+    "url": "https://news.hada.io/topic?id=37681&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:42:35+09:00",
+    "excerpt": "Nyx 는 무료 공개 접속 ISP로, 이메일과 웹 호스팅, Linux 셸 계정 등을 제공함 계정에는 가입비나 월 이용료가 없으며 , 세금 공제가 가능한 기부를 받음 Nyx Net 은 자원봉사자만으로 운영되고 기부금으로 유지되는 501(c)(3) 비영리 단체 임 검열하지 않는 전체 Usenet 뉴스 피드 와 일반적인 Unix/Linux 프로그래밍 및 개발 도구를 제공함 2026년 5월 10일 공지에 따르면 시스템 업데이트로 SSH 호스트 키 와 허용되는 알고리듬이 변경됨 무료 서비스와 운영 방식 Nyx 는 세계에서 가장 오래된 인터넷 서비스 제공업체이며, 무료 공개 접속 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618635+00:00"
+  },
+  {
+    "title": "이제 우리는 모두 주니어 인재다",
+    "url": "https://news.hada.io/topic?id=37680&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:40:02+09:00",
+    "excerpt": "AI의 가치는 같은 일을 더 빨리 처리하는 효율화 보다, 기업이 할 수 있는 일 자체를 재구상 하는 데 있음 AI와 일하는 방식이 빠르게 바뀌면서 경력자도 새로 배워야 함 . 오래 쌓은 경험만으로 주니어와 시니어를 구분하기보다, 새로운 환경에 필요한 것을 얼마나 빠르게 익히는지가 중요해짐 새로운 업무 구상에서 모델은 두뇌 , Codex나 Claude Code 같은 하네스 는 스킬과 도구, 실행 환경을 제공하는 외골격에 해당함 에이전트가 시스템 갱신을 맡으면 사람은 사람과 일하는 데 집중하고, 각 직무는 에이전트 관리자 역할을 더하게 됨 누 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618661+00:00"
+  },
+  {
+    "title": "Automated System 장애로 애틀랜타 경유 델타항공 전 항공편 지연",
+    "url": "https://news.hada.io/topic?id=37679&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:39:35+09:00",
+    "excerpt": "Automated System 장애로 애틀랜타 경유 델타항공 전 항공편 지연",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618670+00:00"
+  },
+  {
+    "title": "Alessandro Masullo 원고의 Lean 형식화 진행 현황 지도",
+    "url": "https://news.hada.io/topic?id=37678&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:36:35+09:00",
+    "excerpt": "Alessandro Masullo 원고의 Lean 형식화 진행 현황 지도",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618679+00:00"
+  },
+  {
+    "title": "빠른 속도는 디자인 결정이다",
+    "url": "https://news.hada.io/topic?id=37677&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:31:02+09:00",
+    "excerpt": "웹사이트 제작은 프롬프트 하나로 가능해졌지만, 성능 비용 은 사라지지 않으며 느린 페이지의 대기 시간은 방문자가 부담함 페이지 로딩 속도는 서버와의 거리, HTML 생성 방식 뿐 아니라 캐시 정책, 리소스 도착 순서, 메인 스레드 작업에 좌우됨 자동 재생 영상, 커스텀 폰트, 캐러셀과 애니메이션은 방문자의 시간과 데이터 를 사용하는 디자인 결정이므로, 디자인도 성능 비용을 판단하는 데 참여해야 함 첫 화면의 주요 이미지를 작게 만들고 지연 없이 불러오자, 네트워크와 CPU를 제한한 모바일 테스트에서 최대 콘텐츠 표시 시간(L …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618702+00:00"
+  },
+  {
+    "title": "Words - AI 응답을 실시간으로 표시하는 고속 Markdown 렌더러",
+    "url": "https://news.hada.io/topic?id=37676&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:30:02+09:00",
+    "excerpt": "OpenAI가 인수 예정인 Pierre Computer Company 의 고속 마크다운 렌더러 AI가 답변을 생성하는 동안 Markdown을 바로 렌더링 해, 전체 응답이 끝나기 전부터 서식 있는 텍스트를 표시 아직 닫히지 않은 강조, 코드, 링크 문법도 스트리밍에 맞게 처리 하고, 뒤늦게 도착한 링크 참조와 각주를 반영 새 텍스트가 도착하면 이미 표시한 부분은 유지하고 추가된 내용을 반영 하며, 새 내용이 부드럽게 나타나는 페이드 효과도 제공 WebAssembly Text(WAT)로 작성 한 렌더러로, 코어는 실행 시 외부 의존성 없이 HTML이나 터미널용 ANSI를 출력 C …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618729+00:00"
+  },
+  {
+    "title": "연구자가 AI 공급망에 카나리 200만 개를 심자 드러난 개인정보 보호 참사",
+    "url": "https://news.hada.io/topic?id=37675&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T09:02:04+09:00",
+    "excerpt": "약 200만 건의 AI 프롬프트 에 고유한 추적용 비밀정보를 넣은 실험에서, 제공업체 침해와 리셀러의 프롬프트 유출, 개인정보 보호 설정 위반이 확인됨 AI 라우터와 추론 리셀러 를 거치는 프롬프트는 전송 중 암호화되지만 각 중계 지점에서 복호화되며, 여러 업체가 평문을 읽고 기록할 수 있음 최소 3개 AI 호스팅 제공업체의 침해 증거 가 발견됐으며, 공격자들은 탈취한 미끼 AWS 키로 수만 차례 API를 호출하고 추가 자격증명과 지속적인 접근 수단을 찾음 데이터 무보관(Zero Data Retention, ZDR) 이나 ‘데이터 수집 안 함’ 설정도 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618755+00:00"
+  },
+  {
+    "title": "Show GN: XenoCI - GitHub Actions 맥 빌드를 Mac mini M4에서 돌리는 러너",
+    "url": "https://news.hada.io/topic?id=37673&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T08:41:31+09:00",
+    "excerpt": "XenoCI 만드는 사람이에요. iOS·맥 앱을 GitHub Actions 로 빌드하는 팀을 위한 맥 러너를 만들고 있어요. 워크플로는 그대로 두고 runs-on: macos-latest 를 runs-on: xenoci-standard 로 바꾸면 Xcode 27.0과 26.6, iOS 시뮬레이터가 준비된 Mac mini M4(vCPU 5, 메모리 7GB)에서 돌아요. 같은 워크플로를 나란히 돌린 실측 iOS 시뮬레이터 빌드(xcodebuild): GitHub Actions macos-latest 1분 52초, XenoCI 41초 iOS 앱 두 번째 빌드(표준 맥 러너끼리): 7분 55초, 1분 16초 iOS 앱 첫 빌드(캐시 없음): 8분 42초, 3분 02초 두 번째 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618784+00:00"
+  },
+  {
+    "title": "실시간 버스, 비행기, 배가 움직이는 미니어처 샌프란시스코",
+    "url": "https://news.hada.io/topic?id=37671&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-23T08:38:06+09:00",
+    "excerpt": "Small SF 는 샌프란시스코를 일러스트 형태로 구현한 실시간 아이소메트릭 지도임 지도를 드래그하고 확대/축소 하며 도시를 둘러볼 수 있음 Muni와 BART 의 실시간 운행을 지도에 표시함 만을 오가는 페리 와 상공의 비행기 도 실시간으로 보여줌 도로 교통은 시뮬레이션 이며, 실제 하늘도 지도에 반영함 일러스트로 둘러보는 샌프란시스코 Small SF 는 샌프란시스코를 아이소메트릭 일러스트로 구현한 지도임 지도를 드래그하거나 확대/축소하며 도시를 둘러볼 수 있음 실시간 교통과 시뮬레이션 Muni와 BART , 만을 오가는 페리, 상공의 비행 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:37.618812+00:00"
+  },
+  {
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "url": "https://spelunkr.tv",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 01:13:51 +0000",
+    "excerpt": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 13 # Comments: 1",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192336+00:00"
+  },
+  {
+    "title": "What we learned operating auth for 1k APIs",
+    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 01:01:11 +0000",
+    "excerpt": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 3 # Comments: 1",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192358+00:00"
+  },
+  {
+    "title": "Nespresso's project to reduce grams of coffee per capsule",
+    "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 23:57:45 +0000",
+    "excerpt": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 89 # Comments: 82",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192371+00:00"
+  },
+  {
+    "title": "What should AAA game devs do",
+    "url": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 23:51:00 +0000",
+    "excerpt": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 20 # Comments: 35",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192382+00:00"
+  },
+  {
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 23:12:10 +0000",
+    "excerpt": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 150 # Comments: 120",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192395+00:00"
+  },
+  {
+    "title": "GL.iNet Security Notice 2026-11-20",
+    "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 23:06:37 +0000",
+    "excerpt": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 86 # Comments: 33",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192406+00:00"
+  },
+  {
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "url": "https://github.com/mjwsolo/localcode",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 22:18:48 +0000",
+    "excerpt": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 21 # Comments: 5",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192417+00:00"
+  },
+  {
+    "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 22:10:58 +0000",
+    "excerpt": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 60 # Comments: 11",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192428+00:00"
+  },
+  {
+    "title": "Agent swarm trying to solve P vs. NP",
+    "url": "https://pequalnp.com/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 21:53:45 +0000",
+    "excerpt": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 111 # Comments: 104",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192439+00:00"
+  },
+  {
+    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+    "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 21:33:12 +0000",
+    "excerpt": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 46 # Comments: 12",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192450+00:00"
+  },
+  {
+    "title": "Will the first approved psychedelic become a blockbuster?",
+    "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 21:13:10 +0000",
+    "excerpt": "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/ Comments URL: https://news.ycombinator.com/item?id=50603962 Points: 26 # Comments: 23",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192461+00:00"
+  },
+  {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 21:01:16 +0000",
+    "excerpt": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 226 # Comments: 84",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192474+00:00"
+  },
+  {
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "url": "https://smallsf.com/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 20:33:23 +0000",
+    "excerpt": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 144 # Comments: 58",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192484+00:00"
+  },
+  {
+    "title": "Nyx, the Oldest Internet Service Provider",
+    "url": "https://nyx.net/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 20:15:59 +0000",
+    "excerpt": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 98 # Comments: 9",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192494+00:00"
+  },
+  {
+    "title": "Assume People Are Not Interested in Your Blog Post",
+    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "source": "Hacker News",
+    "published": "Sun, 22 Nov 2026 19:41:30 +0000",
+    "excerpt": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 57 # Comments: 31",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-23T02:04:43.192506+00:00"
+  },
+  {
     "title": "Astra 6.2와 Sol 6.2, SimpleBench에서 부진",
     "url": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
@@ -2698,305 +2998,5 @@
     "summary": "",
     "keywords": [],
     "collected_at": "2026-11-13T02:17:46.115996+00:00"
-  },
-  {
-    "title": "자애로운 수출 통제 기계",
-    "url": "https://news.hada.io/topic?id=37088&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T10:14:00+09:00",
-    "excerpt": "다리오 아모데이의 에세이 \"Machines of Loving Grace\" 을 패러디한 제목. 극성 인공지능 안전주의자들은 수출 통제를 맹목적으로 찬성하고, 국가 경쟁으로 규정함. 최근 반-개방 가중치 모델로도 나타남. 특히 극히 일부의 엘리트 이외의 컴퓨트 접근 자체가 금지되어야 한다는 사람들도 있으나, 이는 \"시모네타\" 의 재현일 뿐임. 최악의 경우라도 인공지능은 이중 용도 기술일 뿐, 전차와 같이 \"공격 무기\" 가 아님. 그리고, 그러한 이중 용도 기술로서도 방사능과 달리 인류에 긍정적 소지가 부정적 소지에 비해 다함. 따라서 인공지능 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116048+00:00"
-  },
-  {
-    "title": "nac - 긴 작업에서 원래 목표를 잃지 않게 하는 에이전트 하네스",
-    "url": "https://news.hada.io/topic?id=37085&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T09:30:03+09:00",
-    "excerpt": "실험, 모델 학습, 인프라 구축, 프로토타이핑처럼 오래 걸리는 작업을 처음 의도에 맞춰 이어가도록 설계된 오픈소스 하네스 중앙 오케스트레이터 가 전체 작업을 계획하고, 명령 실행과 파일 수정은 개별 Thread 에 맡김 같은 작업을 이어갈 때는 이전 작업 이력을 가진 Thread를 다시 사용함 Thread가 맡은 작업을 마칠 때마다 핵심 결과를 Episode 로 남김. 오케스트레이터는 이 결과를 보고 다음 단계를 정하거나, 다른 Thread에 넘겨 후속 작업의 맥락으로 활용함 프로젝트의 AGENTS.md 와 에이전트 스킬을 불러오며, MCP로 기존 에이전 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116086+00:00"
-  },
-  {
-    "title": "『Let Over Lambda』 전체를 이제 온라인에서 무료로 읽을 수 있음",
-    "url": "https://news.hada.io/topic?id=37084&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T09:01:24+09:00",
-    "excerpt": "Common Lisp 프로그래밍 서적 Let Over Lambda 전체가 2026년 업데이트를 통해 온라인에 무료로 공개됨 전문은 HTML과 PDF 두 형식으로 읽을 수 있음 책의 중심 주제는 프로그램을 작성하는 프로그램인 매크로 이며, 기초부터 Common Lisp의 고급 기능까지 다룸 당장 프로그래밍 문제 해결에 활용할 매크로 작성 기법 을 가르치는 동시에, 평소 접하기 어려운 프로그래밍 아이디어를 탐구하도록 구성함 2008년 출간 이후 Lisp과 프로그래밍 관행이 많이 달라졌지만, 여전히 Lisp의 특별함을 이해하는 튜토리얼 로서 가치가 있다는 것이 2026 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116120+00:00"
-  },
-  {
-    "title": "데이터센터에 필요한 전력, 저소득층과 농촌 주민이 대가를 치른다",
-    "url": "https://news.hada.io/topic?id=37082&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T08:38:47+09:00",
-    "excerpt": "Cornell 연구진이 미국 주요 전력망 4곳을 분석한 결과, 2025년 데이터센터는 확장에 따른 전력 인프라 비용의 38% 만 부담했고 나머지 62%는 주로 주민에게 돌아감 기존의 과거 전력 소비량 기준 비용 배분 은 아직 전력을 쓰지 않는 신규 데이터센터의 수요를 반영하지 못해, 확장에 필요한 인프라 비용 상당 부분을 가계에 전가함 부담은 저소득층과 농촌 가구 에 불균형하게 집중됐으며, 최저소득 가구의 추가 에너지 비용은 소득의 최대 28%에 달함 데이터센터 용량 1GW당 경제 전반에서 일자리 1만 5,000개 를 창출할 수 있지만, 주정 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116154+00:00"
-  },
-  {
-    "title": "태양을 한 바퀴 도는 데 약 280년 걸리는 왜소행성 후보 발견",
-    "url": "https://news.hada.io/topic?id=37081&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T08:35:47+09:00",
-    "excerpt": "칠레 Vera C. Rubin Observatory 관측 데이터에서 왜소행성 후보 2026 ED138 이 발견됨. 태양까지의 거리는 지구의 46배이며 공전 주기는 281.1년임 최근 10년간의 관측 영상과 1937년 사진 건판 에서도 같은 천체를 확인해 실재 여부와 궤도를 검증함 추정 지름은 370~930마일 이지만, 밝기만으로는 크기와 반사율을 구분할 수 없어 왜소행성 분류는 아직 확정되지 않음 크기를 확인하려면 열복사 관측 이나 별빛을 가리는 시간을 재는 엄폐 관측 이 필요하며, ALMA 등을 이용한 후속 관측을 준비 중임 ED138은 별빛이 밀집한 은하 중심 방향 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116188+00:00"
-  },
-  {
-    "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취...",
-    "url": "https://news.hada.io/topic?id=37079&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T07:57:53+09:00",
-    "excerpt": "취업·이직용 에이전트 스킬입니다. 퇴근하면 체력이 바닥나서 저녁 먹고 나면 이직 준비할 여력이 없다는 친구가 있어, 그 친구를 생각하며 만들었습니다. 공고를 찾고 초안을 잡는 일을 에이전트에게 맡기면 덜 지치게 할 수 있을까 싶었습니다. 쓰는 법 에이전트에 아래 한 줄을 보내면 직무·지역·경력 등을 몇 가지 물은 뒤 바로 첫 공고를 찾아 줍니다. 이후엔 \"오늘 새 공고 찾아줘\", \"이 공고로 자소서 써줘\"처럼 말하면 됩니다. https://raw.githubusercontent.com/Whosekey-Labs/kr-career-skill/main/SKILL.md 이 스킬 설치하고 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116240+00:00"
-  },
-  {
-    "title": "Google Antigravity에 Orchestrator 추가, 코딩 중 Carbon과 Hydrogen 자동 전환",
-    "url": "https://news.hada.io/topic?id=37077&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T06:38:41+09:00",
-    "excerpt": "Google Antigravity의 모델 선택 메뉴에 Gemini 4 Hydrogen 과 Orchestrator 가 추가됨 Orchestrator 는 한 코딩 세션에서 작업 단계에 따라 Carbon과 Hydrogen을 자동으로 전환 함. Carbon이 계획을 세우고, Hydrogen이 코드 수정과 테스트를 이어받는 식 Antigravity 팀의 Terminal-Bench 4.1 평가에서 Carbon 단독에 가까운 성공률을 기록함. 평균 할당량은 24% 덜 쓰고, 작업은 19% 더 빠르게 완료 함 Hydrogen 은 일상적인 코딩에 단독으로 쓸 수 있으며, 추론 수준은 low , medium , high (기본값), xhigh 중 선택할 수 있음 Antigravity에서 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116281+00:00"
-  },
-  {
-    "title": "Show HN: 300달러짜리 자수기에 구독이 필요해서 직접 앱을 만들었다",
-    "url": "https://news.hada.io/topic?id=37076&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T06:35:41+09:00",
-    "excerpt": "ZigZag 는 SVG 그림을 자수 바늘땀으로 변환하고 시각적으로 편집하는 Rust 앱으로, 자수기용 파일을 내보내거나 Brother Skitch에 직접 전송할 수 있음 MCP 를 내장해 AI 에이전트가 사용자가 보고 있는 문서를 함께 편집하며, Claude Code나 Codex가 디자인을 만드는 과정을 편집기에서 확인할 수 있음 Illustrator 방식의 벡터 편집 과 이미지 자동 추적, 글자 배치, 실 색상 관리, 다양한 자수 기법을 한 작업 흐름으로 묶음 Brother Skitch(PP1) Bluetooth 연결 로 디자인 전송부터 시험 운전과 진행 상황 확인까지 지원하지만, 프로토콜 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116313+00:00"
-  },
-  {
-    "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
-    "url": "https://news.hada.io/topic?id=37075&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T06:21:12+09:00",
-    "excerpt": "Jane Street 가 대학생 지원자의 현장 면접에서 코드 작성 비중을 줄이고, 소프트웨어 설계와 코드 검증, LLM 활용을 평가하는 새 면접 유형을 시험 중임 코드 생성 비용이 낮아지면서 무엇을 만들지 판단하는 안목 , 오래 유지할 수 있는 추상화 선택, 구현의 정확성 확인이 더욱 중요해졌다는 판단에 따른 변화임 대부분의 면접 라운드 는 LLM 도움 없이 진행하는 기존 코딩 면접을 유지하며, 나머지 채용 절차도 바뀌지 않음 지원자에게 정교한 에이전트 활용 방법론 이나 특정 도구 구성을 요구하지 않으며, 모든 작업에 LLM을 사용하기를 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116344+00:00"
-  },
-  {
-    "title": "AMD In-Depth에서 Mike Clark과 나눈 Zen 6 심층 대화",
-    "url": "https://news.hada.io/topic?id=37074&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T05:35:45+09:00",
-    "excerpt": "Zen 6 제품군 은 기존 설계를 고주파수 중심으로, 고밀도 설계인 Zen 6c 를 높은 IPC 중심으로 발전시킴 Zen 6c 는 낮은 목표 주파수 덕분에 내부 큐를 키워 IPC와 SMT 활용도를 높이지만, 두 코어에 서로 다른 소프트웨어 최적화가 필요하지 않도록 설계함 Zen 5의 듀얼 디코드 프런트엔드 를 개선해 명령 전달 효율과 전력 효율을 높이고, 분기 예측 실패 후 복구 시간도 단축함 실행부는 효과가 크지 않았던 정수 곱셈기를 3개에서 2개로 줄이는 대신 , 추론 수요를 고려해 VNNI 파이프 2개를 추가 함 인터뷰어의 Zen 6c 실측 에서는 낮은 클 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116378+00:00"
-  },
-  {
-    "title": "Microsoft Outlook, 대규모 접속 장애 발생",
-    "url": "https://news.hada.io/topic?id=37073&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T05:32:45+09:00",
-    "excerpt": "11월 12일(미국 현지시간) Exchange Online 장애 로 Outlook에서 메일함을 열거나 메일을 주고받는 데 문제가 발생함. Outlook 장애 신고는 한때 약 60만 건 에 달함 Outlook 외에도 Microsoft 365, Copilot, Teams, Microsoft Store, OneDrive 에서 사용자들의 장애 신고가 이어짐 Microsoft는 미주 지역에서 여러 연결 방식을 통한 Exchange Online 사서함 접근 문제 를 조사 중 자동 상태 검사에 실패한 서버들이 서비스에서 빠지면서 남은 서버에 부하가 몰림. Microsoft는 대체 검사 방식으로 일부 서버를 복귀시킨 뒤 적용 범위를 넓힘 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116412+00:00"
-  },
-  {
-    "title": "닌텐도, GitHub의 Switch 에뮬레이터와 모드칩 펌웨어에 DMCA 삭제 요청",
-    "url": "https://news.hada.io/topic?id=37072&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T04:55:37+09:00",
-    "excerpt": "닌텐도가 GitHub에 DMCA 삭제 통지 4건 을 보내 Switch 에뮬레이터와 모드칩 펌웨어 저장소를 겨냥함 이번 조치는 모드칩 펌웨어에 초점 을 맞춘 것으로 보이며, Picofly 펌웨어 원본 저장소와 포크를 포함한 144개 저장소 의 접근을 차단함 Picofly 같은 모드칩 은 Switch 메인보드에 납땜한 뒤 해당 펌웨어를 설치해 Nintendo의 복제 방지 장치를 우회할 수 있음 Citron Neo 관련 저장소 71개 도 차단됨. 별도 통지의 대상이 된 Yuzu 저장소 2개 는 소유자가 코드와 커밋 이력을 지움. 닌텐도는 모드칩 펌웨어가 Switch의 부팅 검증을 우회 해 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116445+00:00"
-  },
-  {
-    "title": "작고 오래된 기기에서도 LLM이 돌아가게 만들고 있습니다",
-    "url": "https://news.hada.io/topic?id=37071&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T04:52:37+09:00",
-    "excerpt": "smolmaxxing 은 TV 박스와 오래된 iPad에서 실행 가능한 최대 규모의 언어 모델을 찾고, 맞춤형 커널과 메모리 최적화, 가중치 스트리밍으로 성능을 끌어올리는 프로젝트임 실사용 RAM이 약 1GB인 Xiaomi TV Box S 3세대 에서 Qwen3.5-2B는 실제 채팅 기준 7.7 tok/s, 8B MoE 모델은 7.2 tok/s, 16B MoE 모델은 5.1 tok/s로 실행됨 2013년형 iPad Air 에서는 CPU만으로 Bonsai-1.7B가 23.7~25.8 tok/s에 도달함. 다만 iOS 12.5.7 탈옥이 필요하며, 긴 대화에서는 18~22 tok/s 수준임 RAM보다 큰 모델은 플래시 대역폭 이 속도를 제한함. MoE …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116478+00:00"
-  },
-  {
-    "title": "Rust 1.100.0 - never 타입과 사용자 정의 메모리 할당자 안정화",
-    "url": "https://news.hada.io/topic?id=37070&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T04:49:36+09:00",
-    "excerpt": "never 타입 ! 안정화 Result&lt;T, !&gt; 처럼 실패할 수 없는 연산을 표현할 수 있음 기존 Infallible 은 ! 의 타입 별칭이 됨 2015, 2018, 2021 에디션도 2024 에디션과 같이 never 타입 폴백을 () 에서 ! 로 바꿈. 일부 코드의 타입 추론에 영향을 줄 수 있음 사용자 정의 메모리 할당자 API 안정화 Allocator 트레이트로 사용자 정의 할당자를 구현할 수 있음 Vec::new_in , Box::new_in 으로 객체를 만들 때 사용할 할당자를 지정할 수 있음 DropGuard 는 스코프를 벗어날 때 클로저를 실행함 예를 들어 여러 값을 파싱해 Vec 에 추가하다가 ? 로 조 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.116519+00:00"
-  },
-  {
-    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 00:38:41 +0000",
-    "excerpt": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 37 # Comments: 11",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692361+00:00"
-  },
-  {
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 23:06:17 +0000",
-    "excerpt": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 55 # Comments: 16",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692391+00:00"
-  },
-  {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 21:56:11 +0000",
-    "excerpt": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 174 # Comments: 48",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692408+00:00"
-  },
-  {
-    "title": "Foundation Models framework",
-    "url": "https://developer.apple.com/foundation-models-framework/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 21:13:26 +0000",
-    "excerpt": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 131 # Comments: 17",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692422+00:00"
-  },
-  {
-    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 21:09:49 +0000",
-    "excerpt": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 102 # Comments: 93",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692439+00:00"
-  },
-  {
-    "title": "Announcement: Conductor Is Back",
-    "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 20:37:55 +0000",
-    "excerpt": "Article URL: https://twitter.com/charlieholtz/status/2120973052024598620 Comments URL: https://news.ycombinator.com/item?id=50473888 Points: 8 # Comments: 3",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692453+00:00"
-  },
-  {
-    "title": "Distributed Ray Tracer",
-    "url": "https://ray.hatchet.run",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 19:06:23 +0000",
-    "excerpt": "Hey HN, I'm Julius, I'm a backend engineer at Hatchet and created this demo to show off some of Hatchet's new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly. All of this would be possible on a single machine, but would be much slower w",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692508+00:00"
-  },
-  {
-    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 19:05:33 +0000",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 204 # Comments: 94",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692527+00:00"
-  },
-  {
-    "title": "Gemini 4 Hydrogen and Orchestrator",
-    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:52:01 +0000",
-    "excerpt": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 310 # Comments: 73",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692541+00:00"
-  },
-  {
-    "title": "Rust 1.100",
-    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:39:05 +0000",
-    "excerpt": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 440 # Comments: 178",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692554+00:00"
-  },
-  {
-    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:22:22 +0000",
-    "excerpt": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator.com/item?id=50471761 Points: 146 # Comments: 22",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692569+00:00"
-  },
-  {
-    "title": "Service degradation on Microsoft 365",
-    "url": "https://status.cloud.microsoft/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:20:48 +0000",
-    "excerpt": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 523 # Comments: 476",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692586+00:00"
-  },
-  {
-    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:15:48 +0000",
-    "excerpt": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations - Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, ",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692640+00:00"
-  },
-  {
-    "title": "Gemini 4 Hydrogen",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 18:01:48 +0000",
-    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 469 # Comments: 299",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692656+00:00"
-  },
-  {
-    "title": "Show HN: Kapso – Iterative learning from enterprise data",
-    "url": "https://news.ycombinator.com/item?id=50471281",
-    "source": "Hacker News",
-    "published": "Thu, 12 Nov 2026 17:51:23 +0000",
-    "excerpt": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on ",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:49.692898+00:00"
-  },
-  {
-    "title": "Show HN: 투자할 YC 스타트업을 결정하는 게임으로 Papers, Please를 재현함",
-    "url": "https://news.hada.io/topic?id=37027&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-12T10:40:18+09:00",
-    "excerpt": "Term Sheet, Please 는 Papers, Please를 재현해 어느 YC 스타트업에 투자할지 결정하는 게임임 “ CALL THE NEXT FOUNDER ”로 다음 창업자를 호출함 투자 판단 선택지는 PASS / FUND / HOLD 임 결정 서류를 책상 위에 놓으라는 안내와 함께, 서류에 적힌 사실을 클릭하는 INSPECT 기능이 표시됨 게임 화면의 시점은 데모데이 다음 날 , ACT 01임",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-12T02:36:27.580215+00:00"
   }
 ]
