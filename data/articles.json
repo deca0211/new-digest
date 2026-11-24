@@ -1,5 +1,305 @@
 [
   {
+    "title": "지역별 용달 요금 – 실제 화물 운송 데이터 기반 요금 통계",
+    "url": "https://news.hada.io/topic?id=37763&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T13:53:46+09:00",
+    "excerpt": "안녕하세요. 화물운송 플랫폼 센디에서 프론트엔드 개발을 하고 있습니다. 센디에 축적된 실제 화물 운송 데이터를 활용해 지역별·노선별 용달 요금 통계를 확인할 수 있는 페이지를 만들었습니다. 만든 배경 용달 운송은 이동 거리, 차량 종류, 운반 옵션 등에 따라 가격이 달라지기 때문에, 이용 경험이 없는 사람은 어느 정도의 비용이 적정한지 판단하기 어렵습니다. 플랫폼 내부에 축적된 운송 데이터를 집계하고 시각화하면 이러한 정보 비대칭을 조금이나마 해소할 수 있지 않을까 생각했습니다. 확인할 수 있는 데이터 전국 17개 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463263+00:00"
+  },
+  {
+    "title": "Show GN: Synology Markdown Note - Synology Note Station용 Markdown 편집기",
+    "url": "https://news.hada.io/topic?id=37757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T12:50:19+09:00",
+    "excerpt": "Synology NAS의 Note Station에 쌓아 둔 노트를 Markdown으로 작성하고 관리할 수 있도록 Synology Markdown Note를 만들었습니다. 기존 책장과 메모장을 그대로 열 수 있고, Note Station에서 작성한 일반 노트도 편집할 수 있습니다. macOS 앱·웹: Markdown 원문과 미리보기를 나란히 볼 수 있습니다. Mermaid 다이어그램과 수식을 렌더링하고, 내부 링크와 백링크로 연결된 노트를 탐색할 수 있습니다. 오프라인에서 편집하고, 다시 연결되면 변경 내용을 NAS에 동기화합니다. CLI: synonote로 Markdown 파일을 올리거나 내려받고, 스크립트에서 사용할 수 있습니다. …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463317+00:00"
+  },
+  {
+    "title": "Bored.com: 심심할 때 둘러볼 재미있고 흥미로운 웹사이트 모음",
+    "url": "https://news.hada.io/topic?id=37755&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T12:32:41+09:00",
+    "excerpt": "Bored.com 은 브라우저 게임, 인터랙티브 장난감, 퀴즈, 창작 도구와 탐색용 웹사이트를 주제별로 모아 둔 디렉터리임 게임 은 5분 정도 즐기는 미니 게임부터 RPG, 전략, 퍼즐, 방 탈출까지 나뉘며, 온라인 파티 게임과 키보드 하나로 둘이 하는 게임도 있음 AI 실험과 창작 도구 에는 생성형 AI 도구, 시각 효과, 그림 그리기, 브라우저 악기, 색상과 글꼴 실험 등이 포함됨 코딩과 디자인 관련 사이트뿐 아니라 우주, 날씨, 지도, 데이터 시각화, 가상 박물관처럼 둘러보며 탐색할 수 있는 자료도 모아 둠 레트로 웹과 인터넷 문화 , 특이 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463356+00:00"
+  },
+  {
+    "title": "Show GN: CRAMA FILE – 파일을 서버에 안 올리는 무료 PDF·이미지 도구 21종",
+    "url": "https://news.hada.io/topic?id=37753&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T11:56:43+09:00",
+    "excerpt": "PDF 합치기, 용량 줄이기, JPG→PDF, HEIC→JPG 같은 일을 하려고 변환 사이트에 들어가면, 회사 서류나 신분증 사본을 남의 서버에 올리는 게 늘 찜찜했습니다. 몇 번 쓰면 유료로 바뀌거나 무료 체험에 카드를 등록하게 하는 곳도 많고요. 그래서 변환을 전부 브라우저 안에서 끝내는 도구 모음을 만들었습니다. 파일이 기기 밖으로 나가지 않음. 페이지를 연 뒤 와이파이를 끄고 써도 변환됨(개발자 도구 Network 탭에서도 확인 가능) 가입·결제·횟수 제한·워터마크 없음 PDF 13종: 합치기, 용량 줄이기, 분할, 페이지 삭제·추출, 순서 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463389+00:00"
+  },
+  {
+    "title": "GPUI가 독립 저장소를 갖게 됨",
+    "url": "https://news.hada.io/topic?id=37752&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T11:31:08+09:00",
+    "excerpt": "GPUI 가 자체 저장소를 갖게 됨 저장소는 zed-industries/gpui 임 README 본문에는 “ 몇 주 후에 만나요 ”라는 짧은 안내가 있음 GPUI 웹사이트 링크를 제공함 crates.io의 gpui 페이지 링크도 제공함",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463412+00:00"
+  },
+  {
+    "title": "NariQ: BF16 수준의 Qwen3.8-27B를 10GB 파일에 담다",
+    "url": "https://news.hada.io/topic?id=37749&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T10:39:18+09:00",
+    "excerpt": "NariQ v1 은 Qwen3.8-27B를 가중치당 3비트, 2.5비트, 2비트로 양자화한 GGUF 모델로, 3비트와 2.5비트 버전은 공개된 장기 에이전트 작업, 수학, 이미지 이해 평가에서 BF16 수준 의 성능을 보임 실제 코딩 에이전트 실행 기록으로 보정하는 트렐리스 부호화 기반 학습 후 양자화(PTQ) 를 사용하며, 단일 GPU에서 실행할 수 있는 레이아웃으로 저장함 3비트 모델은 10.12GB , 2.5비트는 8.44GB로 BF16의 53.8GB보다 작음. 6.75GB인 2비트 모델은 더 작지만 수학과 에이전트 작업 성능이 떨어짐 실행에는 NariQ 전용 llama.cpp 포크가 필수 이 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463447+00:00"
+  },
+  {
+    "title": "Jensen Huang의 복귀는 미국 역사상 최대 국가안보 스캔들",
+    "url": "https://news.hada.io/topic?id=37748&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T10:36:18+09:00",
+    "excerpt": "Nvidia 이사회 가 중국 정보기관 연계 의심 인물과의 불륜 및 수출통제 우회 파문으로 사임했던 Jensen Huang을 Donald Trump 대통령의 압박 아래 복귀시킴 첨단 AI 칩 은 미중 AI 경쟁의 핵심 자원이지만, Nvidia와 백악관은 Huang에 대한 경고에도 조치하지 않았으며 중국으로의 칩 공급을 둘러싼 조사와 의혹이 이어짐 H200 중국 판매 합의 와 Huang의 대통령 연회장 기부, Trump의 Nvidia 주식 보유가 맞물리며 국가안보보다 대통령의 사적 이익이 우선한다는 비판을 받음 Trump는 Xi Jinping과의 대화 이후 복귀를 추진했다고 인정했으 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463510+00:00"
+  },
+  {
+    "title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
+    "url": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:40:02+09:00",
+    "excerpt": "모델이나 프롬프트를 바꿨을 때 실제로 개선됐는지 판단하려면 , 평가 지표보다 실제 실패 사례 분석부터 시작해야 함. 운영 기록 100개 이상에서 실패를 분류하고 가장 빈번한 문제부터 평가함 입력과 기대 결과, 평가 기준을 담은 기준 데이터셋을 버전 관리 해야 함. 합성 데이터도 사용자 유형, 질문 의도, 난도와 경계 조건을 조합해 만들어야 비슷한 예시만 반복되는 일을 피할 수 있음 결정론적 검사 를 우선 적용하고, RAG는 검색과 생성을 분리해 평가하며, 에이전트는 최종 답뿐 아니라 도구 호출 경로와 효율까지 점검해야 함 반 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463561+00:00"
+  },
+  {
+    "title": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
+    "url": "https://news.hada.io/topic?id=37744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:34:19+09:00",
+    "excerpt": "Stalwart 1.2.0 이 MAPI over HTTP, EWS, Exchange ActiveSync, Autodiscover를 구현해 기존 Outlook과 Exchange 호환 앱에서 메일, 일정, 연락처 등을 사용할 수 있게 됨 Exchange 지원은 AGPL 기반 Community 에디션 에 포함되며, 관리자가 사서함과 DNS를 이전한 뒤 사용자는 익숙한 클라이언트를 계속 사용할 수 있음 Exchange 프로토콜은 별도 데이터 저장소가 아니라 IMAP/JMAP/CalDAV/CardDAV와 같은 계정과 데이터 에 접근하며, Outlook에서 만든 규칙과 공유 권한도 다른 클라이언트에 적용됨 새 Outlook for Windows는 지원하지 않 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463597+00:00"
+  },
+  {
+    "title": "FastFrames - 실시간 상호작용이 가능한 저지연 영상 생성",
+    "url": "https://news.hada.io/topic?id=37743&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:31:01+09:00",
+    "excerpt": "Apple과 코넬대 연구진의 FastFrames 는 사용자 입력에 맞춰 다음 장면을 생성하는 영상 모델 제품군. 키보드로 시점을 이동하거나 물체를 드래그하는 실시간 상호작용이 가능한 수준으로 생성 지연을 줄임 기존 최신 모델의 추론을 분석한 결과, VAE 디코딩과 KV 캐시 갱신 같은 작업이 전체 지연 시간의 절반 이상을 차지했으며, 이를 경량 대안으로 교체함 1.3B 모델 은 B200 GPU 한 대에서 프레임당 36ms, 초당 28회 응답으로 실행되며, 거의 8배 느린 최신 모델과 동등한 생성 품질을 유지함 14B 모델 은 B200 GPU 8개로 구성한 노드에 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463630+00:00"
+  },
+  {
+    "title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
+    "url": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:30:02+09:00",
+    "excerpt": "새 파일, 메일, 메시지 같은 이벤트가 발생하면 에이전트가 작업을 시작 하는 실행 환경 \"스캔 폴더에 문서가 들어오면 요약하고 납부 금액과 기한을 정리해 줘\"처럼 감시할 대상과 할 일을 말로 지정 메일, Slack, Telegram, 웹훅, 웹페이지, RSS와 연결하고, MQTT나 기기 프로토콜로 센서와 가전의 변화에도 대응 가능 메인 에이전트에게 요청해 담당 에이전트와 도구, 스킬, 반복 일정까지 구성 하며, 사용자가 설정 파일을 직접 편집하는 부담을 줄임 여러 에이전트가 역할을 나눠 병렬 작업하고, 공유 작업 보드에서 진행 상황과 결과 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463663+00:00"
+  },
+  {
+    "title": "shirudo - 에이전트 시대를 위한 BPF 라이브 패치 인프라",
+    "url": "https://news.hada.io/topic?id=37741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:24:51+09:00",
+    "excerpt": "Isovalent의 shirudo 는 서명된 BPF 마이크로 패치를 배포해 커널 취약점을 빠르게 완화하려는 프로젝트로, 재부팅 중심의 패치 주기와 에이전트의 취약점 발견 속도 사이의 격차에 대응함 에이전트리스 보안 플랫폼 을 목표로 초기 부팅부터 BPF 보호를 활성화하고, 서명 검증과 자산 봉인을 통해 악의적인 root 사용자도 완화 조치를 쉽게 제거하지 못하도록 설계함 에이전트가 취약점 재현과 완화 코드 검증을 수행한 뒤 OCI 레지스트리 로 패치를 배포하고, 노드는 이를 가져와 적용하며 상태 변경을 TPM으로 측정하는 구조임 CVE 약 50 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463696+00:00"
+  },
+  {
+    "title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
+    "url": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:21:29+09:00",
+    "excerpt": "OpenAI와 Cisco가 패치를 준비하고 배포하는 동안 Linux 서비스를 중단하지 않고 임시 보호를 적용하는 Shirudo 를 공개함 eBPF 기반 실드(shield) 로 취약점을 노출하는 동작을 차단하면서 정상 요청은 통과시키도록 설계했으며, 보안팀은 적용 전 영향을 관찰하고 배포 여부를 결정할 수 있음 통제된 테스트 에서 Codex가 생성한 실드가 실행 중인 Elasticsearch에 대한 Java4Shell 공격 시도를 차단했으며, 서비스 재시작은 필요하지 않았음 실드는 암호학적 서명과 검증 을 거쳐 로드되며, TPM을 활용해 보호 기능의 로드와 제거 이력을 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463729+00:00"
+  },
+  {
+    "title": "경영진과 대화하는 법: 논쟁하기 전에 금액으로 환산하라",
+    "url": "https://news.hada.io/topic?id=37739&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T09:20:02+09:00",
+    "excerpt": "경영진에게 기술적 판단을 설득하려면 얻을 가치나 피할 위험을 금액으로 환산 해야 함. 기술적으로 더 옳은 논거만으로는 의사결정을 이끌기 어려움 설명하기 어려운 완벽한 계산보다 근거를 설명할 수 있는 추정치 가 유용함. 과거 작업 기록이나 최선/최악의 시나리오를 바탕으로 계산하고, 추정임을 명확히 밝혀야 함 큰 고객이 계약 조건으로 전용 기능을 요구한다면 , 계약으로 얻는 매출뿐 아니라 계속 들어갈 유지보수 인력과 다른 기능 개발이 늦어지는 비용까지 비교해야 함 논쟁에 앞서 두 선택지의 가치 차이 부터 확인해야 함. …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463759+00:00"
+  },
+  {
+    "title": "모든 체에서 VP ≠ VNP",
+    "url": "https://news.hada.io/topic?id=37736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "published": "2026-11-24T08:31:40+09:00",
+    "excerpt": "내부 연구용 Claude 모델 이 발견한 모든 체에서의 VP와 VNP 분리 결과를 논문과 Lean 4 형식화로 공개함. 둘 다 AI 모델이 작성했으며, 인간 수학자는 아직 증명을 검토하지 않음 해밀턴 순환 다항식과 표수가 2가 아닌 체에서의 퍼머넌트를 계산하는 회로에는 충분히 큰 모든 m에 대해 m^(c (log m)^(1/3)) 보다 많은 게이트 가 필요함 같은 하한이 근사 회로 에도 적용되며, 이에 따라 VP는 VNP의 진부분집합이고 VNP는 VP의 폐포에도 포함되지 않음 Lean은 증명을 검사 하지만, 형식화된 명제가 실제로 공개한 수학적 주장과 일치하는지는 …",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:30.463792+00:00"
+  },
+  {
+    "title": "Drone Maps of Salvage Yards",
+    "url": "https://salvageyarddrone.wordpress.com/",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 04:00:28 +0000",
+    "excerpt": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 25 # Comments: 8",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999187+00:00"
+  },
+  {
+    "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+    "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 03:16:58 +0000",
+    "excerpt": "Article URL: https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26 Comments URL: https://news.ycombinator.com/item?id=50623175 Points: 7 # Comments: 0",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999217+00:00"
+  },
+  {
+    "title": "Hacking radiators",
+    "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 02:56:41 +0000",
+    "excerpt": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/ Comments URL: https://news.ycombinator.com/item?id=50623020 Points: 10 # Comments: 3",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999232+00:00"
+  },
+  {
+    "title": "Making a dumb TV just smart enough",
+    "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 02:46:54 +0000",
+    "excerpt": "Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ Comments URL: https://news.ycombinator.com/item?id=50622934 Points: 28 # Comments: 10",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999248+00:00"
+  },
+  {
+    "title": "Declare is a UI language for you and your AI",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 02:36:56 +0000",
+    "excerpt": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 27 # Comments: 6",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999262+00:00"
+  },
+  {
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 02:27:02 +0000",
+    "excerpt": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 127 # Comments: 47",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999279+00:00"
+  },
+  {
+    "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+    "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 00:53:46 +0000",
+    "excerpt": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375 Comments URL: https://news.ycombinator.com/item?id=50621977 Points: 78 # Comments: 56",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999294+00:00"
+  },
+  {
+    "title": "The Power of GraphQL, Without GraphQL",
+    "url": "https://cobalt27.dev/",
+    "source": "Hacker News",
+    "published": "Tue, 24 Nov 2026 00:03:59 +0000",
+    "excerpt": "Article URL: https://cobalt27.dev/ Comments URL: https://news.ycombinator.com/item?id=50621466 Points: 31 # Comments: 16",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999308+00:00"
+  },
+  {
+    "title": "The search for a top dark matter candidate",
+    "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 23:12:40 +0000",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/ Comments URL: https://news.ycombinator.com/item?id=50620831 Points: 32 # Comments: 14",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999324+00:00"
+  },
+  {
+    "title": "Freeing the iPod Nano 5G",
+    "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 23:03:13 +0000",
+    "excerpt": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd Comments URL: https://news.ycombinator.com/item?id=50620721 Points: 76 # Comments: 8",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999338+00:00"
+  },
+  {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 22:32:29 +0000",
+    "excerpt": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 329 # Comments: 161",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999353+00:00"
+  },
+  {
+    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "url": "https://arxiv.org/abs/2602.20031",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 22:29:48 +0000",
+    "excerpt": "Article URL: https://arxiv.org/abs/2602.20031 Comments URL: https://news.ycombinator.com/item?id=50620328 Points: 49 # Comments: 4",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999369+00:00"
+  },
+  {
+    "title": "VP ≠ VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 22:09:10 +0000",
+    "excerpt": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 301 # Comments: 259",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999386+00:00"
+  },
+  {
+    "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 21:30:41 +0000",
+    "excerpt": "Article URL: https://openai.com/index/introducing-shirudo/ Comments URL: https://news.ycombinator.com/item?id=50619630 Points: 55 # Comments: 13",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999402+00:00"
+  },
+  {
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "url": "https://www.bored.com/",
+    "source": "Hacker News",
+    "published": "Mon, 23 Nov 2026 21:01:16 +0000",
+    "excerpt": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 180 # Comments: 41",
+    "summary": "",
+    "keywords": [],
+    "collected_at": "2026-11-24T05:41:31.999417+00:00"
+  },
+  {
     "title": "에이전트 시대의 Postgres 데이터베이스",
     "url": "https://news.hada.io/topic?id=37687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews",
@@ -2698,305 +2998,5 @@
     "summary": "",
     "keywords": [],
     "collected_at": "2026-11-14T01:54:11.357868+00:00"
-  },
-  {
-    "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
-    "url": "https://news.hada.io/topic?id=37138&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:38:43+09:00",
-    "excerpt": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM1 기기용으로만 개발, 실행, 바이너리 재배포를 허용하며, 상업적 이용도 가능하지만 독점 소스는 제공하지 않음 부팅/업데이트 리소스와 V15 복구 펌웨어는 Apache-2.0 으로 배포되며, APP과 독점 엔진의 라이선스는 각각 유지됨 배포자는 APP 대응 소스와 빌드/설치 스크립트 를 GPLv3 요구에 따라 제공하고, 포함된 각 구성 요소의 라이선스와 고지를 보존해야 함 APP과 독점 SDK는 보증 없 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.357917+00:00"
-  },
-  {
-    "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
-    "url": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:30:02+09:00",
-    "excerpt": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해 작업을 이어갈 수 있음 같은 Tailscale 네트워크 에서 팀원의 채널에 들어가 대화와 진행 상황을 실시간으로 보고, 채널 주인이 허용하면 그 팀원의 Mac에서 실행되는 에이전트에 직접 작업을 맡김 에이전트는 Mac에 설치된 Xcode, Docker, gh 를 그대로 사용하며, 데스크톱 조작을 켜면 빌드한 앱의 창도 채팅 옆에 띄워 보여줌 작업마다 Git worktree와 브랜치 를 따로 만들 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.357956+00:00"
-  },
-  {
-    "title": "최소한 제3의 선택지가 필요한 이유",
-    "url": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:18:41+09:00",
-    "excerpt": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있음 iOS는 원래 폐쇄적이었고, 개방형 대안이었던 Android도 통제를 강화 하고 있음. 개발자 검증과 복잡한 앱 설치 절차뿐 아니라 대체 ROM을 차단하는 앱도 문제임 일상생활이 모바일 앱에 의존하면서 시민으로서의 활동과 디지털 주권 도 두 기업의 생태계에 종속될 위험이 있음 대안의 정확한 모습은 확실하지 않지만, 오픈소스 기반과 상호운용성 , …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.357989+00:00"
-  },
-  {
-    "title": "셀을 차지하지 않는 터미널 테두리",
-    "url": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:15:41+09:00",
-    "excerpt": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널 경계에 탭을 배치하고, 한 줄 높이의 둥근 버튼이나 텍스트 바로 아래의 입력란 밑줄을 그릴 수 있음 테두리를 셀 속성 으로 저장해 텍스트와 함께 스크롤, 삭제, 삽입, 재배치되며, 선마다 색상과 너비 등을 지정할 수 있음 기능 지원 조회와 박스 문자 대체 처리 를 제공하지만, tmux 같은 멀티플렉서는 테두리 속성을 직접 지원하거나 관련 명령을 차단해야 함 명세의 버전 1은 안 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358022+00:00"
-  },
-  {
-    "title": "“글루 워크는 해롭다”에 대한 반론",
-    "url": "https://news.hada.io/topic?id=37134&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:12:41+09:00",
-    "excerpt": "문서 정리나 온보딩 같은 글루 워크(glue work) 는 성과로 잘 드러나지 않아도, 팀이 같은 문제에 반복해서 시간을 쓰는 일을 줄여줌 기능 출시를 주로 보상하는 조직도 팀을 굴러가게 하는 글루 워크에 의존 하며, 그 가치를 평가에 반영하지 못하면 개선 기회를 놓침 Oxide에서는 간헐적으로 실패하는 테스트의 패턴을 정리해 에이전트 스킬 flake-review 를 만들고, 이를 활용해 테스트 12건 가까이 를 고침 마감에 대비해 여력을 남겨두되, 자신이 문제를 해결하기에 가장 적합한 사람이라면 담당 프로젝트 밖에서도 동료를 도울 가치가 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358056+00:00"
-  },
-  {
-    "title": "음악 플레이어를 이렇게 만들지는 말자",
-    "url": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T09:09:41+09:00",
-    "excerpt": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP 를 직접 만들기 시작함 기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제, 네이티브 앱처럼 느껴지는 시스템 통합 을 목표로 삼음 인터넷 복구 뒤 Claude Max 20x 로 며칠간 쉬지 않고 프롬프트를 입력하며 상당 부분을 바이브 코딩했지만, 나중에 수만 줄의 코드를 검토하는 일이 감당하기 어려워짐 Anthropic의 계정 차단과 Codeberg의 AI 금지 정책 이후 직접 재작성한 결과, 4개월 뒤 코드베이스가 거의 절반으로 줄 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358088+00:00"
-  },
-  {
-    "title": "Haskell 생태계를 위한 기술 비전",
-    "url": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T08:38:14+09:00",
-    "excerpt": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함 AI가 코드를 생성할 때 타입과 도메인 전용 언어(eDSL)로 지켜야 할 규칙을 코드에 담아 , 개발자가 변경 사항을 검토하고 통제하기 쉽게 만드는 방향을 제시함 빠른 개발 반복 주기와 디버깅 개선 을 추진하며, GHC 자체 CI 소요 시간을 6시간에서 2시간으로 줄이는 것을 목표로 함 온보딩을 개발자 경험의 기준 으로 삼고, 빠른 설치, 접근하기 쉬운 문서, 직관적이며 서로 조합하고 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358121+00:00"
-  },
-  {
-    "title": "빅테크는 우리를 실망시킨다",
-    "url": "https://news.hada.io/topic?id=37131&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T08:35:14+09:00",
-    "excerpt": "Microsoft Outlook, Teams, Copilot 장애 로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음 장애 영향은 기업을 넘어 학교, 대학, 법원 까지 이어졌으며, 서로 다른 이틀에 걸쳐 문제가 발생함 엔지니어를 포함한 수만 명 규모의 감원 이 장애 가능성을 높이고 신속한 복구를 어렵게 한다는 비판이 나옴 Microsoft 시스템에 대한 높은 의존도 때문에 서비스 장애가 여러 조직의 운영 중단으로 번지며, 특히 필수 업무를 수행하는 조직에는 큰 피해를 줄 수 있음 여러 유럽 국가기관이 오픈소스 대안으 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358152+00:00"
-  },
-  {
-    "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
-    "url": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T07:37:56+09:00",
-    "excerpt": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리와 비슷한 성공률을 얻음 장기 과제를 25스텝 단위 하위 목표 로 나누고, 시연을 연결한 메모리 그래프 에서 경로를 찾는 방식으로 재학습 없이 성공률을 22%에서 85%로 높임 표준 Push-T 평가는 목표가 기존 시연 경로에 놓이는 경우가 많음. 서로 다른 시연에서 시작점과 목표를 가져오고 마지막 10스텝 동안 목표를 유지하도록 요구하자, 메모리 그래프 계획기의 성공률이 75%에서 45% 로 낮아짐 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358186+00:00"
-  },
-  {
-    "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
-    "url": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T07:34:56+09:00",
-    "excerpt": "캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 NVIDIA 컴퓨터 하드웨어 6팔레트 가 사라짐. 보도된 화물 가치는 1,140만 달러 이나 경찰은 금액과 구체적인 품목을 확인하지 않음 화물을 인수한 트럭은 남쪽으로 이동하며 여러 차례 장시간 정차했고, 수사관들은 남부 캘리포니아 샌버너디노 카운티 에서 차량의 행적을 놓친 것으로 알려짐 오클랜드 경찰 은 2026년 9월 13일 접수된 신고에 따라 중절도 사건을 수사 중임. 신고일이 실제 도난 발생일을 뜻하지는 않으며, 체포나 화물 회수 여부도 발표하지 않음 북부 캘리포니아에서는 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358217+00:00"
-  },
-  {
-    "title": "No AI Slop 선언문",
-    "url": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T07:09:42+09:00",
-    "excerpt": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문 2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함 AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임 우리가 가치 있게 여기는 것 산출물보다 실질적인 가치를 (Outcomes over output) 속도보다 이해 (Understanding over speed) 모델의 첫 초안보다 우리 자신의 생 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358248+00:00"
-  },
-  {
-    "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
-    "url": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T06:42:51+09:00",
-    "excerpt": "FAA, 전국 항공기 이륙 중지 조치 발령",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358259+00:00"
-  },
-  {
-    "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
-    "url": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T06:39:51+09:00",
-    "excerpt": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358270+00:00"
-  },
-  {
-    "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
-    "url": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-14T06:36:51+09:00",
-    "excerpt": "Relax 는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함 함수 단위 핫 패치 로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함 프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기 실행은 11초 , 캐시가 있는 두 번째 실행은 1.15초 가 걸렸으며, Cargo와 rustc의 빌드 시간은 약 3분이었음 rustc, LLVM, 링커를 실행 경로에서 대체하지만 …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:11.358336+00:00"
-  },
-  {
-    "title": "FAA lifted National Ground Stop at 0119Z",
-    "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-    "source": "Hacker News",
-    "published": "Sat, 14 Nov 2026 01:30:01 +0000",
-    "excerpt": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 34 # Comments: 5",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648181+00:00"
-  },
-  {
-    "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-    "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-    "source": "Hacker News",
-    "published": "Sat, 14 Nov 2026 01:10:22 +0000",
-    "excerpt": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 61 # Comments: 10",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648207+00:00"
-  },
-  {
-    "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-    "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-    "source": "Hacker News",
-    "published": "Sat, 14 Nov 2026 00:52:29 +0000",
-    "excerpt": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 94 # Comments: 26",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648224+00:00"
-  },
-  {
-    "title": "Show HN: Light control for MacBook charger status light (open-source)",
-    "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
-    "source": "Hacker News",
-    "published": "Sat, 14 Nov 2026 00:44:58 +0000",
-    "excerpt": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github Comments URL: https://news.ycombinator.com/item?id=50492269 Points: 7 # Comments: 6",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648249+00:00"
-  },
-  {
-    "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-    "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-    "source": "Hacker News",
-    "published": "Sat, 14 Nov 2026 00:28:11 +0000",
-    "excerpt": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 12 # Comments: 1",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648267+00:00"
-  },
-  {
-    "title": "What Happened to 3Com?",
-    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 23:48:59 +0000",
-    "excerpt": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 40 # Comments: 15",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648318+00:00"
-  },
-  {
-    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-    "url": "https://grounds.top/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 23:17:39 +0000",
-    "excerpt": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 25 # Comments: 5",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648338+00:00"
-  },
-  {
-    "title": "Terminal borders that don't cost a cell",
-    "url": "https://www.joshka.net/cell-borders/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 23:06:40 +0000",
-    "excerpt": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 67 # Comments: 39",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648354+00:00"
-  },
-  {
-    "title": "How Not to Build a Music Player",
-    "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 23:04:30 +0000",
-    "excerpt": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 29 # Comments: 9",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648368+00:00"
-  },
-  {
-    "title": "Lying to Zed to get its remote server running on FreeBSD",
-    "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 22:54:47 +0000",
-    "excerpt": "Article URL: https://hayzam.com/blog/03-lying-to-zeds-remote-editor/ Comments URL: https://news.ycombinator.com/item?id=50491295 Points: 17 # Comments: 3",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648383+00:00"
-  },
-  {
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "url": "https://orcasairband.com/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 22:04:24 +0000",
-    "excerpt": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 200 # Comments: 45",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648400+00:00"
-  },
-  {
-    "title": "All US airports are currently ground stopped",
-    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 21:06:52 +0000",
-    "excerpt": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 169 # Comments: 32",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648415+00:00"
-  },
-  {
-    "title": "FAA issues national ground stop",
-    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 21:05:53 +0000",
-    "excerpt": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1326 # Comments: 811",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648431+00:00"
-  },
-  {
-    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-    "url": "https://atg.science/careers",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 21:01:11 +0000",
-    "excerpt": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648446+00:00"
-  },
-  {
-    "title": "Live-migration support in FreeBSD and bhyve coming",
-    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-    "source": "Hacker News",
-    "published": "Fri, 13 Nov 2026 19:58:42 +0000",
-    "excerpt": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 72 # Comments: 16",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-14T01:54:13.648459+00:00"
-  },
-  {
-    "title": "Show GN: Dari - 앱과 웹뷰가 주고받는 브릿지 메시지를 요청·응답 짝으로 보여 주는 디버그 도구 (Android/iOS)",
-    "url": "https://news.hada.io/topic?id=37089&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews",
-    "published": "2026-11-13T10:49:19+09:00",
-    "excerpt": "네이티브 앱 안에 웹뷰를 띄워 화면 일부를 웹으로 만들다 보면, 웹과 앱이 주고받는 브릿지 메시지가 문제일 때가 많은데, 확인하려면 핸들러마다 로그를 넣고 Logcat이나 Xcode 콘솔을 스크롤하며 요청과 응답을 손으로 맞춰 봐야 했습니다. 이 메시지들을 한 목록에서 보려고 만들었습니다. 핵심 웹에서 앱으로, 앱에서 웹으로 오가는 호출을 requestId로 짝지어 한 줄에 보여 줍니다 상태(진행 중, 성공, 에러), 소요 시간, 정리된 JSON, 핸들러별 평균·최대 응답 시간을 볼 수 있습니다 데스크톱 앱(macOS, Windows, Linux)에서 And …",
-    "summary": "",
-    "keywords": [],
-    "collected_at": "2026-11-13T02:17:46.115996+00:00"
   }
 ]
